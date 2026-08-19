@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5987163,
             "language": "Frege",
             "last_commit": "2026-07-11T08:33:45Z",
             "owner": "Frege",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13680801,
             "language": "Java",
             "last_commit": "2021-12-25T13:33:44Z",
             "owner": "jphp-group",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 54841032,
             "language": "Go",
             "last_commit": "2018-06-06T00:32:20Z",
             "owner": "sridharv",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65250538,
             "language": "Java",
             "last_commit": "2020-04-22T00:57:27Z",
             "owner": "mjanicek",
@@ -72,11 +76,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7508411,
             "language": "Java",
             "last_commit": "2026-08-17T08:50:30Z",
             "owner": "ReactiveX",
             "repo": "RxJava",
-            "stars": 48203
+            "stars": 48202
           }
         },
         {
@@ -86,11 +91,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20773773,
             "language": "Java",
-            "last_commit": "2026-08-18T20:38:56Z",
+            "last_commit": "2026-08-19T10:04:26Z",
             "owner": "bazelbuild",
             "repo": "bazel",
-            "stars": 25726
+            "stars": 25729
           }
         },
         {
@@ -100,11 +106,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27954927,
             "language": "Java",
-            "last_commit": "2026-08-18T04:57:46Z",
+            "last_commit": "2026-08-19T05:16:09Z",
             "owner": "ben-manes",
             "repo": "caffeine",
-            "stars": 17822
+            "stars": 17826
           }
         },
         {
@@ -114,11 +121,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17812502,
             "language": "Kotlin",
-            "last_commit": "2026-08-18T18:38:38Z",
+            "last_commit": "2026-08-19T12:17:04Z",
             "owner": "lysine-dev",
             "repo": "okio",
-            "stars": 9028
+            "stars": 9030
           }
         },
         {
@@ -128,6 +136,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 48175620,
             "language": "Java",
             "last_commit": "2022-01-13T14:58:57Z",
             "owner": "google",
@@ -142,11 +151,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7296244,
             "language": "Java",
             "last_commit": "2026-08-13T20:14:33Z",
             "owner": "LWJGL",
             "repo": "lwjgl3",
-            "stars": 5428
+            "stars": 5429
           }
         },
         {
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12274147,
             "language": "Kotlin",
             "last_commit": "2026-08-18T15:42:59Z",
             "owner": "square",
@@ -170,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 38279457,
             "language": "Java",
             "last_commit": "2025-12-28T01:41:28Z",
             "owner": "failsafe-lib",
@@ -184,11 +196,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10746583,
             "language": "Java",
             "last_commit": "2026-08-05T21:41:39Z",
             "owner": "RoaringBitmap",
             "repo": "RoaringBitmap",
-            "stars": 3914
+            "stars": 3915
           }
         },
         {
@@ -198,11 +211,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10437688,
             "language": "Java",
-            "last_commit": "2026-08-18T17:33:08Z",
+            "last_commit": "2026-08-19T09:39:31Z",
             "owner": "OpenHFT",
             "repo": "Chronicle-Queue",
-            "stars": 3794
+            "stars": 3795
           }
         },
         {
@@ -212,11 +226,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12559641,
             "language": "Java",
             "last_commit": "2026-08-17T15:29:47Z",
             "owner": "aeron-io",
             "repo": "simple-binary-encoding",
-            "stars": 3487
+            "stars": 3490
           }
         },
         {
@@ -226,8 +241,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26136655,
             "language": "Java",
-            "last_commit": "2026-08-18T19:15:15Z",
+            "last_commit": "2026-08-19T04:52:38Z",
             "owner": "aeron-io",
             "repo": "agrona",
             "stars": 3236
@@ -240,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21985130,
             "language": "Java",
             "last_commit": "2026-06-30T13:10:55Z",
             "owner": "OpenHFT",
@@ -254,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18877072,
             "language": "Java",
             "last_commit": "2022-06-01T19:43:43Z",
             "owner": "tdebatty",
@@ -268,6 +286,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46803767,
             "language": "Java",
             "last_commit": "2026-07-25T23:13:17Z",
             "owner": "eclipse-collections",
@@ -282,6 +301,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 1483979,
             "language": "Java",
             "last_commit": "2019-11-28T12:37:37Z",
             "owner": "addthis",
@@ -296,6 +316,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17339218,
             "language": "Java",
             "last_commit": "2024-08-01T12:21:02Z",
             "owner": "jOOQ",
@@ -310,6 +331,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3041887,
             "language": "Java",
             "last_commit": "2023-03-20T19:23:56Z",
             "owner": "goldmansachs",
@@ -324,6 +346,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2101910,
             "language": "Java",
             "last_commit": "2022-11-19T02:04:32Z",
             "owner": "dain",
@@ -338,6 +361,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 75422566,
             "language": "Java",
             "last_commit": "2026-08-15T14:43:31Z",
             "owner": "Netflix",
@@ -352,6 +376,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29557376,
             "language": "Java",
             "last_commit": "2023-03-21T11:08:31Z",
             "owner": "AOL-archive",
@@ -366,6 +391,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23350791,
             "language": "Java",
             "last_commit": "2026-07-30T11:22:38Z",
             "owner": "davidmoten",
@@ -380,6 +406,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26888367,
             "language": "Java",
             "last_commit": "2024-09-12T16:42:16Z",
             "owner": "snazy",
@@ -394,6 +421,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45384078,
             "language": "Java",
             "last_commit": "2026-06-29T12:28:41Z",
             "owner": "ngs-doo",
@@ -408,6 +436,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1397974,
             "language": "Java",
             "last_commit": "2026-08-13T19:58:21Z",
             "owner": "carrotsearch",
@@ -422,6 +451,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14376799,
             "language": "Java",
             "last_commit": "2017-02-01T10:43:20Z",
             "owner": "leventov",
@@ -436,6 +466,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 60480511,
             "language": "Java",
             "last_commit": "2026-08-14T11:36:25Z",
             "owner": "lmdbjava",
@@ -450,6 +481,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26002040,
             "language": "Java",
             "last_commit": "2026-06-30T13:10:52Z",
             "owner": "OpenHFT",
@@ -464,6 +496,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17937004,
             "language": "Java",
             "last_commit": "2025-07-23T04:18:26Z",
             "owner": "hrldcpr",
@@ -478,6 +511,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41968300,
             "language": "Java",
             "last_commit": "2026-02-26T15:48:03Z",
             "owner": "pascaldekloe",
@@ -492,6 +526,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4931095,
             "language": "Java",
             "last_commit": "2026-06-24T16:32:25Z",
             "owner": "fast-pack",
@@ -506,6 +541,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31261671,
             "language": "Java",
             "last_commit": "2026-06-30T13:10:10Z",
             "owner": "OpenHFT",
@@ -520,6 +556,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10808572,
             "language": "Java",
             "last_commit": "2026-08-17T18:48:17Z",
             "owner": "davidmoten",
@@ -534,6 +571,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1621035,
             "language": "Java",
             "last_commit": "2015-03-28T02:14:13Z",
             "owner": "boundary",
@@ -548,6 +586,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 56248127,
             "language": "C",
             "last_commit": "2026-06-07T21:52:05Z",
             "owner": "fast-pack",
@@ -562,6 +601,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1511134,
             "language": "Java",
             "last_commit": "2026-07-27T10:23:16Z",
             "owner": "chrisvest",
@@ -576,6 +616,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15389347,
             "language": "Java",
             "last_commit": "2018-02-07T08:55:20Z",
             "owner": "aggregateknowledge",
@@ -590,6 +631,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41914195,
             "language": "Java",
             "last_commit": "2019-12-29T18:06:16Z",
             "owner": "TimeAndSpaceIO",
@@ -604,6 +646,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18065193,
             "language": "Java",
             "last_commit": "2026-02-03T16:16:13Z",
             "owner": "lemire",
@@ -618,6 +661,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 666669,
             "language": "Java",
             "last_commit": "2023-12-17T15:38:56Z",
             "owner": "krukow",
@@ -632,6 +676,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19858860,
             "language": "C",
             "last_commit": "2021-05-28T01:46:47Z",
             "owner": "deephacks",
@@ -646,6 +691,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67781540,
             "language": "Java",
             "last_commit": "2023-02-03T23:05:32Z",
             "owner": "MGunlogson",
@@ -660,6 +706,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 118267613,
             "language": "Java",
             "last_commit": "2023-01-14T23:35:47Z",
             "owner": "jchambers",
@@ -674,6 +721,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5765579,
             "language": "Java",
             "last_commit": "2020-10-13T08:29:38Z",
             "owner": "romix",
@@ -688,6 +736,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18256591,
             "language": "Java",
             "last_commit": "2022-10-06T19:08:40Z",
             "owner": "giltene",
@@ -702,6 +751,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 132483497,
             "language": "Scala",
             "last_commit": "2026-08-08T08:22:46Z",
             "owner": "plokhotnyuk",
@@ -716,6 +766,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19481229,
             "language": "Java",
             "last_commit": "2021-12-25T00:02:11Z",
             "owner": "boundary",
@@ -730,6 +781,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1567760,
             "language": "Java",
             "last_commit": "2022-05-31T18:29:06Z",
             "owner": "cowtowncoder",
@@ -744,6 +796,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 24384774,
             "language": "Java",
             "last_commit": "2023-06-03T21:40:36Z",
             "owner": "cognitect-labs",
@@ -758,6 +811,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 114902411,
             "language": "Java",
             "last_commit": "2023-07-11T18:58:19Z",
             "owner": "indeedeng",
@@ -772,6 +826,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53431974,
             "language": "Java",
             "last_commit": "2025-07-01T16:17:25Z",
             "owner": "lemire",
@@ -786,6 +841,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1468436,
             "language": "Java",
             "last_commit": "2016-05-07T23:15:49Z",
             "owner": "lemire",
@@ -800,6 +856,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 122429896,
             "language": "Java",
             "last_commit": "2019-05-30T00:32:51Z",
             "owner": "lightbend",
@@ -814,6 +871,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28034496,
             "language": "Java",
             "last_commit": "2015-05-10T07:56:32Z",
             "owner": "belliottsmith",
@@ -828,6 +886,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1601645,
             "language": "Java",
             "last_commit": "2012-06-25T17:37:18Z",
             "owner": "bryanduxbury",
@@ -842,6 +901,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 120205336,
             "language": "Java",
             "last_commit": "2018-10-28T12:57:46Z",
             "owner": "richardstartin",
@@ -856,6 +916,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46595778,
             "language": "Java",
             "last_commit": "2017-06-01T03:15:46Z",
             "owner": "onyx-platform",
@@ -876,11 +937,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 49662222,
             "language": "Java",
-            "last_commit": "2026-08-18T16:57:28Z",
+            "last_commit": "2026-08-19T12:08:16Z",
             "owner": "oracle",
             "repo": "graal",
-            "stars": 21664
+            "stars": 21665
           }
         },
         {
@@ -890,6 +952,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 7961991,
             "language": "Java",
             "last_commit": "2024-10-10T21:04:58Z",
             "owner": "square",
@@ -904,11 +967,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10230369,
             "language": "Java",
             "last_commit": "2026-08-18T14:59:32Z",
             "owner": "google",
             "repo": "auto",
-            "stars": 10553
+            "stars": 10552
           }
         },
         {
@@ -918,8 +982,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23206290,
             "language": "Java",
-            "last_commit": "2026-08-18T20:35:29Z",
+            "last_commit": "2026-08-19T08:34:48Z",
             "owner": "google",
             "repo": "error-prone",
             "stars": 7222
@@ -932,11 +997,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2675355,
             "language": "Java",
             "last_commit": "2026-08-18T18:35:33Z",
             "owner": "javaparser",
             "repo": "javaparser",
-            "stars": 6136
+            "stars": 6139
           }
         },
         {
@@ -946,6 +1012,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13045763,
             "language": "Java",
             "last_commit": "2026-07-28T16:27:02Z",
             "owner": "konsoletyper",
@@ -960,6 +1027,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 55689010,
             "language": "Haskell",
             "last_commit": "2022-07-31T17:14:19Z",
             "owner": "typelead",
@@ -974,6 +1042,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 327391,
             "language": "Java",
             "last_commit": "2026-08-07T03:39:11Z",
             "owner": "sirthias",
@@ -988,6 +1057,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12390121,
             "language": "Java",
             "last_commit": "2026-08-18T14:54:31Z",
             "owner": "google",
@@ -1002,6 +1072,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 49868718,
             "language": "Java",
             "last_commit": "2018-12-05T11:05:28Z",
             "owner": "graalvm",
@@ -1016,6 +1087,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42741668,
             "language": "Java",
             "last_commit": "2022-12-01T03:28:00Z",
             "owner": "derive4j",
@@ -1030,6 +1102,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7959279,
             "language": "Java",
             "last_commit": "2026-05-21T00:04:46Z",
             "owner": "jparsec",
@@ -1044,6 +1117,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19060965,
             "language": "Java",
             "last_commit": "2016-04-03T02:48:45Z",
             "owner": "fge",
@@ -1064,6 +1138,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18992193,
             "language": "Java",
             "last_commit": "2026-08-10T23:19:17Z",
             "owner": "bytedeco",
@@ -1078,6 +1153,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22579786,
             "language": "Java",
             "last_commit": "2025-11-14T04:52:55Z",
             "owner": "eclipsesource",
@@ -1092,6 +1168,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1323052,
             "language": "Java",
             "last_commit": "2026-08-09T21:27:53Z",
             "owner": "jnr",
@@ -1106,6 +1183,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11944439,
             "language": "Java",
             "last_commit": "2026-07-10T18:58:14Z",
             "owner": "brettwooldridge",
@@ -1120,6 +1198,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15153331,
             "language": "C++",
             "last_commit": "2026-07-04T17:09:16Z",
             "owner": "mikeakohn",
@@ -1134,6 +1213,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 519620,
             "language": "Java",
             "last_commit": "2023-07-25T17:26:02Z",
             "owner": "fusesource",
@@ -1148,6 +1228,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23011413,
             "language": "Java",
             "last_commit": "2017-04-18T03:49:53Z",
             "owner": "dvx",
@@ -1168,11 +1249,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5152285,
             "language": "Kotlin",
-            "last_commit": "2026-08-18T19:54:29Z",
+            "last_commit": "2026-08-19T12:23:56Z",
             "owner": "lysine-dev",
             "repo": "okhttp",
-            "stars": 47052
+            "stars": 47051
           }
         },
         {
@@ -1182,11 +1264,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10379607,
             "language": "Go",
             "last_commit": "2026-01-27T15:26:22Z",
             "owner": "probelabs",
             "repo": "goreplay",
-            "stars": 19315
+            "stars": 19316
           }
         },
         {
@@ -1196,6 +1279,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26516975,
             "language": "Go",
             "last_commit": "2025-03-20T15:58:13Z",
             "owner": "tylertreat",
@@ -1210,11 +1294,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16621659,
             "language": "Java",
-            "last_commit": "2026-08-18T11:10:35Z",
+            "last_commit": "2026-08-19T10:19:37Z",
             "owner": "aeron-io",
             "repo": "aeron",
-            "stars": 8800
+            "stars": 8805
           }
         },
         {
@@ -1224,6 +1309,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 4931659,
             "language": "Java",
             "last_commit": "2018-12-18T09:29:22Z",
             "owner": "Netflix",
@@ -1238,8 +1324,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46251204,
             "language": "Java",
-            "last_commit": "2026-08-18T02:16:51Z",
+            "last_commit": "2026-08-19T08:13:43Z",
             "owner": "line",
             "repo": "armeria",
             "stars": 5133
@@ -1252,6 +1339,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3889407,
             "language": "C++",
             "last_commit": "2026-01-29T22:18:29Z",
             "owner": "simsong",
@@ -1266,6 +1354,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14542959,
             "language": "C",
             "last_commit": "2026-08-15T16:15:36Z",
             "owner": "appneta",
@@ -1280,6 +1369,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3005042,
             "language": "Java",
             "last_commit": "2022-09-05T12:47:30Z",
             "owner": "kaitoy",
@@ -1294,6 +1384,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 109887296,
             "language": "Java",
             "last_commit": "2026-06-02T18:03:13Z",
             "owner": "salesforce",
@@ -1308,6 +1399,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41590877,
             "language": "Go",
             "last_commit": "2021-01-13T12:31:12Z",
             "owner": "mefellows",
@@ -1322,6 +1414,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6667447,
             "language": "Java",
             "last_commit": "2026-08-18T12:08:42Z",
             "owner": "odnoklassniki",
@@ -1336,6 +1429,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34642062,
             "language": "C",
             "last_commit": "2020-11-02T16:00:02Z",
             "owner": "rafael-santiago",
@@ -1350,6 +1444,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 29302186,
             "language": "Java",
             "last_commit": "2023-08-07T05:44:04Z",
             "owner": "OpenHFT",
@@ -1364,6 +1459,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14720290,
             "language": "Java",
             "last_commit": "2017-01-15T15:52:45Z",
             "owner": "accelio",
@@ -1378,6 +1474,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25200960,
             "language": "Java",
             "last_commit": "2016-07-30T11:17:11Z",
             "owner": "LatencyUtils",
@@ -1392,6 +1489,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18419894,
             "language": "Java",
             "last_commit": "2022-11-16T09:26:52Z",
             "owner": "k3po",
@@ -1406,6 +1504,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 115495336,
             "language": "Java",
             "last_commit": "2019-05-03T18:20:52Z",
             "owner": "netifi-proteus",
@@ -1426,11 +1525,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34921116,
             "language": "C",
             "last_commit": "2026-08-14T08:23:06Z",
             "owner": "iovisor",
             "repo": "bcc",
-            "stars": 22623
+            "stars": 22626
           }
         },
         {
@@ -1440,6 +1540,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21708091,
             "language": "Shell",
             "last_commit": "2023-11-22T18:01:21Z",
             "owner": "brendangregg",
@@ -1454,8 +1555,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35045238,
             "language": "C",
-            "last_commit": "2026-08-18T13:13:03Z",
+            "last_commit": "2026-08-19T11:19:56Z",
             "owner": "RRZE-HPC",
             "repo": "likwid",
             "stars": 1932
@@ -1468,6 +1570,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33072833,
             "language": "C",
             "last_commit": "2025-12-25T15:00:11Z",
             "owner": "koct9i",
@@ -1488,6 +1591,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34824499,
             "language": "Kotlin",
             "last_commit": "2026-08-11T14:08:39Z",
             "owner": "square",
@@ -1502,6 +1606,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4576305,
             "language": "Java",
             "last_commit": "2026-08-06T04:10:29Z",
             "owner": "openzipkin",
@@ -1516,6 +1621,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 56894212,
             "language": "C++",
             "last_commit": "2026-08-10T23:51:21Z",
             "owner": "async-profiler",
@@ -1530,6 +1636,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23439463,
             "language": "Java",
             "last_commit": "2026-08-17T04:39:38Z",
             "owner": "btraceio",
@@ -1544,11 +1651,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 87859908,
             "language": "Java",
-            "last_commit": "2026-08-17T21:17:20Z",
+            "last_commit": "2026-08-18T21:16:11Z",
             "owner": "micrometer-metrics",
             "repo": "micrometer",
-            "stars": 4881
+            "stars": 4882
           }
         },
         {
@@ -1558,6 +1666,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2629978,
             "language": "Java",
             "last_commit": "2026-06-20T16:23:39Z",
             "owner": "chewiebug",
@@ -1572,6 +1681,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4166277,
             "language": "Java",
             "last_commit": "2024-01-26T12:20:14Z",
             "owner": "aragozin",
@@ -1586,6 +1696,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 13217369,
             "language": "Java",
             "last_commit": "2025-12-28T13:31:13Z",
             "owner": "AdoptOpenJDK",
@@ -1600,6 +1711,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 116432428,
             "language": "Java",
             "last_commit": "2026-05-21T02:04:42Z",
             "owner": "uber-common",
@@ -1614,6 +1726,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6813325,
             "language": "C",
             "last_commit": "2020-08-28T20:44:09Z",
             "owner": "jvm-profiling-tools",
@@ -1628,6 +1741,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16926533,
             "language": "Java",
             "last_commit": "2023-12-05T22:06:45Z",
             "owner": "jvm-profiling-tools",
@@ -1642,6 +1756,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 39074930,
             "language": "Java",
             "last_commit": "2021-08-04T02:45:20Z",
             "owner": "patric-r",
@@ -1656,6 +1771,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1388495,
             "language": "Java",
             "last_commit": "2024-01-18T22:52:33Z",
             "owner": "jbellis",
@@ -1670,6 +1786,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30677439,
             "language": "Java",
             "last_commit": "2026-08-05T18:13:35Z",
             "owner": "google",
@@ -1684,6 +1801,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 867605,
             "language": "C",
             "last_commit": "2016-05-11T21:12:18Z",
             "owner": "mariusae",
@@ -1698,6 +1816,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 37090169,
             "language": "C",
             "last_commit": "2019-05-03T10:03:08Z",
             "owner": "coderplay",
@@ -1712,6 +1831,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29201575,
             "language": "Java",
             "last_commit": "2026-01-15T22:52:03Z",
             "owner": "etsy",
@@ -1726,6 +1846,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20271491,
             "language": "Clojure",
             "last_commit": "2026-04-05T20:43:58Z",
             "owner": "riemann",
@@ -1740,6 +1861,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 87222319,
             "language": "Python",
             "last_commit": "2019-02-19T20:50:24Z",
             "owner": "epickrram",
@@ -1754,6 +1876,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34377226,
             "language": "Java",
             "last_commit": "2023-10-25T06:04:04Z",
             "owner": "chrishantha",
@@ -1768,6 +1891,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14967867,
             "language": "Java",
             "last_commit": "2023-12-16T17:32:09Z",
             "owner": "devexperts",
@@ -1782,6 +1906,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 44250608,
             "language": "Java",
             "last_commit": "2025-06-25T07:43:29Z",
             "owner": "zalando",
@@ -1796,6 +1921,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 62942823,
             "language": "Kotlin",
             "last_commit": "2022-03-02T14:57:52Z",
             "owner": "yole",
@@ -1810,6 +1936,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3768902,
             "language": null,
             "last_commit": "2018-03-09T12:21:28Z",
             "owner": "dweiss",
@@ -1824,6 +1951,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31317231,
             "language": "Java",
             "last_commit": "2016-09-19T12:44:25Z",
             "owner": "akarnokd",
@@ -1838,6 +1966,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43140353,
             "language": "Groovy",
             "last_commit": "2018-04-29T19:31:03Z",
             "owner": "lhotari",
@@ -1852,6 +1981,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 115998297,
             "language": "Java",
             "last_commit": "2025-09-22T22:11:39Z",
             "owner": "cl4es",
@@ -1866,6 +1996,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40595248,
             "language": "Java",
             "last_commit": "2021-03-01T09:21:53Z",
             "owner": "nitsanw",
@@ -1880,18 +2011,13 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1989596,
             "language": "C++",
             "last_commit": "2012-10-15T18:00:09Z",
             "owner": "Cue",
             "repo": "polarbear",
             "stars": 22
           }
-        },
-        {
-          "node_type": "item",
-          "title": "hawkshaw",
-          "description": "Tools for tracking down memory / JVM problems & generating predictable-as-possible VM behaviour.",
-          "children": []
         }
       ],
       "title": "Profilers"
@@ -1906,6 +2032,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14561598,
             "language": "Java",
             "last_commit": "2026-08-12T08:46:50Z",
             "owner": "HotswapProjects",
@@ -1920,6 +2047,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5536234,
             "language": "Shell",
             "last_commit": "2021-01-27T05:51:38Z",
             "owner": "ninjudd",
@@ -1934,6 +2062,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18912218,
             "language": "Java",
             "last_commit": "2022-05-29T12:44:43Z",
             "owner": "puniverse",
@@ -1948,6 +2077,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30434289,
             "language": "C",
             "last_commit": "2026-05-22T16:29:30Z",
             "owner": "airlift",
@@ -1968,8 +2098,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16389681,
             "language": "Java",
-            "last_commit": "2026-08-18T11:12:48Z",
+            "last_commit": "2026-08-19T09:48:16Z",
             "owner": "google",
             "repo": "j2objc",
             "stars": 6039
@@ -1982,6 +2113,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28906288,
             "language": "Go",
             "last_commit": "2019-12-04T14:16:37Z",
             "owner": "zxh0",
@@ -1996,11 +2128,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 101408117,
             "language": "Java",
             "last_commit": "2026-08-18T19:08:19Z",
             "owner": "eclipse-openj9",
             "repo": "openj9",
-            "stars": 3535
+            "stars": 3536
           }
         },
         {
@@ -2010,8 +2143,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32973467,
             "language": "Java",
-            "last_commit": "2026-08-18T21:00:30Z",
+            "last_commit": "2026-08-19T12:32:35Z",
             "owner": "codenameone",
             "repo": "CodenameOne",
             "stars": 1860
@@ -2024,6 +2158,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4227709,
             "language": "C++",
             "last_commit": "2021-02-19T02:20:09Z",
             "owner": "ReadyTalk",
@@ -2038,6 +2173,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 56718024,
             "language": "Java",
             "last_commit": "2026-08-18T10:23:17Z",
             "owner": "MobiVM",
@@ -2049,43 +2185,53 @@
       "title": "Virtual Machines"
     },
     {
-      "description": "Documentation related to JVM",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "An introduction to distributed systems",
-          "description": "Kyle Kingsbury (author of Jepsen).",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2025-03-18T16:49:03Z",
-            "owner": "aphyr",
-            "repo": "distsys-class",
-            "stars": 9874
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Linux tracing workshop",
-          "description": "JVM monitoring with BPF, examples and hands-on labs for Linux tracing tools workshops.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HTML",
-            "last_commit": "2020-06-19T09:20:08Z",
-            "owner": "goldshtn",
-            "repo": "linux-tracing-workshop",
-            "stars": 1323
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": "An introduction to distributed systems",
+              "description": "Kyle Kingsbury (author of Jepsen).",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 55260959,
+                "language": null,
+                "last_commit": "2025-03-18T16:49:03Z",
+                "owner": "aphyr",
+                "repo": "distsys-class",
+                "stars": 9874
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Linux tracing workshop",
+              "description": "JVM monitoring with BPF, examples and hands-on labs for Linux tracing tools workshops.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 61016178,
+                "language": "HTML",
+                "last_commit": "2020-06-19T09:20:08Z",
+                "owner": "goldshtn",
+                "repo": "linux-tracing-workshop",
+                "stars": 1323
+              }
+            }
+          ],
+          "description": "Documentation related to JVM",
+          "node_type": "group",
+          "title": "Documentation"
         }
       ],
-      "title": "Documentation"
+      "title": "Resources"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T21:02:20.206Z",
+    "last_updated": "2026-08-19T12:34:14.751Z",
     "original_repository": "deephacks/awesome-jvm",
+    "original_repository_id": 40659091,
     "original_repository_sha": "c202eed1aadd11c5cc88bf9968300e24b8f75577",
     "enhanced_repository": "enhansome/enhansome-jvm",
     "enhanced_repository_description": null,
