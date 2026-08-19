@@ -78,10 +78,10 @@
             "archived": false,
             "id": 7508411,
             "language": "Java",
-            "last_commit": "2026-08-17T08:50:30Z",
+            "last_commit": "2026-08-19T16:29:28Z",
             "owner": "ReactiveX",
             "repo": "RxJava",
-            "stars": 48202
+            "stars": 48203
           }
         },
         {
@@ -93,10 +93,10 @@
             "archived": false,
             "id": 20773773,
             "language": "Java",
-            "last_commit": "2026-08-19T10:04:26Z",
+            "last_commit": "2026-08-19T21:01:11Z",
             "owner": "bazelbuild",
             "repo": "bazel",
-            "stars": 25729
+            "stars": 25731
           }
         },
         {
@@ -111,7 +111,7 @@
             "last_commit": "2026-08-19T05:16:09Z",
             "owner": "ben-manes",
             "repo": "caffeine",
-            "stars": 17826
+            "stars": 17827
           }
         },
         {
@@ -123,7 +123,7 @@
             "archived": false,
             "id": 17812502,
             "language": "Kotlin",
-            "last_commit": "2026-08-19T12:17:04Z",
+            "last_commit": "2026-08-19T12:44:16Z",
             "owner": "lysine-dev",
             "repo": "okio",
             "stars": 9030
@@ -168,7 +168,7 @@
             "archived": false,
             "id": 12274147,
             "language": "Kotlin",
-            "last_commit": "2026-08-18T15:42:59Z",
+            "last_commit": "2026-08-19T19:00:46Z",
             "owner": "square",
             "repo": "wire",
             "stars": 4426
@@ -216,7 +216,7 @@
             "last_commit": "2026-08-19T09:39:31Z",
             "owner": "OpenHFT",
             "repo": "Chronicle-Queue",
-            "stars": 3795
+            "stars": 3796
           }
         },
         {
@@ -939,10 +939,10 @@
             "archived": false,
             "id": 49662222,
             "language": "Java",
-            "last_commit": "2026-08-19T12:08:16Z",
+            "last_commit": "2026-08-19T19:25:27Z",
             "owner": "oracle",
             "repo": "graal",
-            "stars": 21665
+            "stars": 21666
           }
         },
         {
@@ -984,10 +984,10 @@
             "archived": false,
             "id": 23206290,
             "language": "Java",
-            "last_commit": "2026-08-19T08:34:48Z",
+            "last_commit": "2026-08-19T15:13:46Z",
             "owner": "google",
             "repo": "error-prone",
-            "stars": 7222
+            "stars": 7223
           }
         },
         {
@@ -1017,7 +1017,7 @@
             "last_commit": "2026-07-28T16:27:02Z",
             "owner": "konsoletyper",
             "repo": "teavm",
-            "stars": 3088
+            "stars": 3091
           }
         },
         {
@@ -1251,7 +1251,7 @@
             "archived": false,
             "id": 5152285,
             "language": "Kotlin",
-            "last_commit": "2026-08-19T12:23:56Z",
+            "last_commit": "2026-08-19T19:01:55Z",
             "owner": "lysine-dev",
             "repo": "okhttp",
             "stars": 47051
@@ -1296,10 +1296,10 @@
             "archived": false,
             "id": 16621659,
             "language": "Java",
-            "last_commit": "2026-08-19T10:19:37Z",
+            "last_commit": "2026-08-19T19:54:42Z",
             "owner": "aeron-io",
             "repo": "aeron",
-            "stars": 8805
+            "stars": 8806
           }
         },
         {
@@ -1557,10 +1557,10 @@
             "archived": false,
             "id": 35045238,
             "language": "C",
-            "last_commit": "2026-08-19T11:19:56Z",
+            "last_commit": "2026-08-19T14:16:28Z",
             "owner": "RRZE-HPC",
             "repo": "likwid",
-            "stars": 1932
+            "stars": 1933
           }
         },
         {
@@ -1596,7 +1596,7 @@
             "last_commit": "2026-08-11T14:08:39Z",
             "owner": "square",
             "repo": "leakcanary",
-            "stars": 29976
+            "stars": 29977
           }
         },
         {
@@ -2100,7 +2100,7 @@
             "archived": false,
             "id": 16389681,
             "language": "Java",
-            "last_commit": "2026-08-19T09:48:16Z",
+            "last_commit": "2026-08-19T12:56:05Z",
             "owner": "google",
             "repo": "j2objc",
             "stars": 6039
@@ -2145,7 +2145,7 @@
             "archived": false,
             "id": 32973467,
             "language": "Java",
-            "last_commit": "2026-08-19T12:32:35Z",
+            "last_commit": "2026-08-19T20:21:34Z",
             "owner": "codenameone",
             "repo": "CodenameOne",
             "stars": 1860
@@ -2229,7 +2229,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:34:14.751Z",
+    "last_updated": "2026-08-19T21:05:06.565Z",
     "original_repository": "deephacks/awesome-jvm",
     "original_repository_id": 40659091,
     "original_repository_sha": "c202eed1aadd11c5cc88bf9968300e24b8f75577",
