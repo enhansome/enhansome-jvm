@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Jitescript - Java API for Bytecode",
+            "homepage": "http://blog.qmx.me",
             "id": 1773405,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2021-05-20T22:28:00Z",
+            "open_issues": 3,
             "owner": "qmx",
             "repo": "jitescript",
-            "stars": 192
+            "stars": 192,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         }
@@ -32,12 +37,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A constant throughput, correct latency recording variant of wrk",
+            "homepage": null,
             "id": 26362798,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2024-03-03T13:40:01Z",
+            "open_issues": 106,
             "owner": "giltene",
             "repo": "wrk2",
-            "stars": 4627
+            "stars": 4627,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         }
@@ -54,12 +64,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Frege is a Haskell for the JVM. It brings purely functional programing to the Java platform.",
+            "homepage": "https://github.com/Frege/frege/wiki/_pages",
             "id": 5987163,
             "language": "Frege",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-11T08:33:45Z",
+            "open_issues": 44,
             "owner": "Frege",
             "repo": "frege",
-            "stars": 3712
+            "stars": 3712,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -70,12 +85,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JPHP - an implementation of PHP on Java VM",
+            "homepage": "http://jphp.develnext.org",
             "id": 13680801,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2021-12-25T13:33:44Z",
+            "open_issues": 43,
             "owner": "jphp-group",
             "repo": "jphp",
-            "stars": 1710
+            "stars": 1710,
+            "topics": [
+              "bytecode",
+              "compiler",
+              "java",
+              "java-vm",
+              "jit",
+              "jphp",
+              "jvm",
+              "php",
+              "php-language",
+              "zend-php"
+            ]
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -86,12 +117,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GoJava - Java bindings for Go packages",
+            "homepage": null,
             "id": 54841032,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2018-06-06T00:32:20Z",
+            "open_issues": 7,
             "owner": "sridharv",
             "repo": "gojava",
-            "stars": 183
+            "stars": 183,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -102,12 +138,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rembulan, an implementation of Lua 5.3 for the Java Virtual Machine",
+            "homepage": null,
             "id": 65250538,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2020-04-22T00:57:27Z",
+            "open_issues": 24,
             "owner": "mjanicek",
             "repo": "rembulan",
-            "stars": 171
+            "stars": 171,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         }
@@ -124,12 +165,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RxJava – Reactive Extensions for the JVM – a library for composing asynchronous and event-based programs using observable sequences for the Java VM.",
+            "homepage": "https://dsc.gg/rxjava",
             "id": 7508411,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T05:03:09Z",
+            "open_issues": 11,
             "owner": "ReactiveX",
             "repo": "RxJava",
-            "stars": 48208
+            "stars": 48208,
+            "topics": [
+              "flow",
+              "java",
+              "reactive-streams",
+              "rxjava"
+            ]
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -140,12 +191,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "a fast, scalable, multi-language and extensible build system",
+            "homepage": "https://bazel.build",
             "id": 20773773,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T22:17:12Z",
+            "open_issues": 1911,
             "owner": "bazelbuild",
             "repo": "bazel",
-            "stars": 25773
+            "stars": 25773,
+            "topics": [
+              "bazel",
+              "build",
+              "build-system",
+              "correct",
+              "fast",
+              "multi-language",
+              "scalable",
+              "test"
+            ]
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -156,12 +221,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A high performance caching library for Java",
+            "homepage": null,
             "id": 27954927,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T06:00:11Z",
+            "open_issues": 1,
             "owner": "ben-manes",
             "repo": "caffeine",
-            "stars": 17838
+            "stars": 17838,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -172,12 +242,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A modern I/O library for Android, Java, and Kotlin Multiplatform.",
+            "homepage": "https://lysine.dev/okio/",
             "id": 17812502,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T12:05:52Z",
+            "open_issues": 102,
             "owner": "lysine-dev",
             "repo": "okio",
-            "stars": 9038
+            "stars": 9038,
+            "topics": [
+              "kotlin",
+              "kotlin-multiplatform"
+            ]
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -188,12 +266,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Reactive Programming for Android",
+            "homepage": null,
             "id": 48175620,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2022-01-13T14:58:57Z",
+            "open_issues": 6,
             "owner": "google",
             "repo": "agera",
-            "stars": 7127
+            "stars": 7127,
+            "topics": [
+              "agera",
+              "android",
+              "reactive"
+            ]
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -204,12 +291,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LWJGL is a Java library that enables cross-platform access to popular native APIs useful in the development of graphics (OpenGL, Vulkan, bgfx), audio (OpenAL, Opus), parallel computing (OpenCL, CUDA) and XR (OpenVR, LibOVR, OpenXR) applications.",
+            "homepage": "https://www.lwjgl.org",
             "id": 7296244,
             "language": "Java",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-23T21:05:09Z",
+            "open_issues": 87,
             "owner": "LWJGL",
             "repo": "lwjgl3",
-            "stars": 5438
+            "stars": 5438,
+            "topics": [
+              "bindings",
+              "fmod",
+              "freetype",
+              "glfw",
+              "harfbuzz",
+              "java",
+              "kotlin",
+              "lwjgl",
+              "openal",
+              "opencl",
+              "opengl",
+              "opengl-es",
+              "openxr",
+              "vr",
+              "vulkan"
+            ]
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -220,12 +328,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "gRPC and protocol buffers for Android, Kotlin, Swift and Java.",
+            "homepage": "https://square.github.io/wire/",
             "id": 12274147,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T14:27:48Z",
+            "open_issues": 166,
             "owner": "square",
             "repo": "wire",
-            "stars": 4428
+            "stars": 4428,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -236,12 +349,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fault tolerance and resilience patterns for the JVM",
+            "homepage": "https://failsafe.dev",
             "id": 38279457,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2025-12-28T01:41:28Z",
+            "open_issues": 79,
             "owner": "failsafe-lib",
             "repo": "failsafe",
-            "stars": 4310
+            "stars": 4310,
+            "topics": [
+              "bulkhead",
+              "circuit-breaker",
+              "fallback",
+              "java",
+              "rate-limiter",
+              "resilience",
+              "resiliency-patterns",
+              "retry",
+              "timeout"
+            ]
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -252,12 +380,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A better compressed bitset in Java: used by Apache Spark, Netflix Atlas, Apache Pinot, Tablesaw, and many others",
+            "homepage": "http://roaringbitmap.org/",
             "id": 10746583,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-05T21:41:39Z",
+            "open_issues": 78,
             "owner": "RoaringBitmap",
             "repo": "RoaringBitmap",
-            "stars": 3918
+            "stars": 3918,
+            "topics": [
+              "bitset",
+              "druid",
+              "java",
+              "lucene",
+              "roaring-bitmaps",
+              "roaringbitmap",
+              "spark"
+            ]
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -268,12 +409,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Micro second messaging that stores everything to disk",
+            "homepage": "http://chronicle.software/products/chronicle-queue/",
             "id": 10437688,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T22:43:48Z",
+            "open_issues": 47,
             "owner": "OpenHFT",
             "repo": "Chronicle-Queue",
-            "stars": 3799
+            "stars": 3799,
+            "topics": [
+              "chronicle",
+              "java",
+              "low-latency",
+              "performance",
+              "persistance",
+              "queue"
+            ]
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -284,12 +437,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple Binary Encoding (SBE) - High Performance Message Codec",
+            "homepage": null,
             "id": 12559641,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-22T10:42:57Z",
+            "open_issues": 39,
             "owner": "aeron-io",
             "repo": "simple-binary-encoding",
-            "stars": 3497
+            "stars": 3497,
+            "topics": [
+              "c-plus-plus",
+              "codec",
+              "encoder-decoder",
+              "golang",
+              "java"
+            ]
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -300,12 +464,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "High Performance data structures and utility methods for Java",
+            "homepage": null,
             "id": 26136655,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-20T14:01:11Z",
+            "open_issues": 4,
             "owner": "aeron-io",
             "repo": "agrona",
-            "stars": 3241
+            "stars": 3241,
+            "topics": [
+              "java",
+              "performance"
+            ]
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -316,12 +488,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Replicate your Key Value Store across your network, with consistency, persistance and performance.",
+            "homepage": "http://chronicle.software/products/chronicle-map/",
             "id": 21985130,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-22T11:00:33Z",
+            "open_issues": 33,
             "owner": "OpenHFT",
             "repo": "Chronicle-Map",
-            "stars": 2987
+            "stars": 2987,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -332,12 +509,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of various string similarity and distance algorithms: Levenshtein, Jaro-winkler, n-Gram, Q-Gram, Jaccard index, Longest Common Subsequence edit distance, cosine similarity ...",
+            "homepage": null,
             "id": 18877072,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2022-06-01T19:43:43Z",
+            "open_issues": 14,
             "owner": "tdebatty",
             "repo": "java-string-similarity",
-            "stars": 2738
+            "stars": 2738,
+            "topics": [
+              "algorithm",
+              "cosine-similarity",
+              "damerau-levenshtein",
+              "distance",
+              "distance-measure",
+              "jaro-winkler",
+              "java",
+              "levenshtein-distance",
+              "shingles",
+              "similarity-measures",
+              "string-distance"
+            ]
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -348,12 +542,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Eclipse Collections is a collections framework for Java with optimized data structures and a rich, functional and fluent API.",
+            "homepage": "https://eclipse.dev/collections/",
             "id": 46803767,
             "language": "Java",
+            "license": null,
             "last_commit": "2026-08-22T01:57:20Z",
+            "open_issues": 178,
             "owner": "eclipse-collections",
             "repo": "eclipse-collections",
-            "stars": 2649
+            "stars": 2649,
+            "topics": [
+              "collections",
+              "data-structures",
+              "eclipse-collections",
+              "functional",
+              "immutable-collections",
+              "java",
+              "java-collections",
+              "object-oriented",
+              "primitive-collections"
+            ]
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -364,12 +573,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Stream summarizer and cardinality estimator.",
+            "homepage": null,
             "id": 1483979,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2019-11-28T12:37:37Z",
+            "open_issues": 34,
             "owner": "addthis",
             "repo": "stream-lib",
-            "stars": 2264
+            "stars": 2264,
+            "topics": [
+              "java"
+            ]
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -380,12 +596,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "jOOλ - The Missing Parts in Java 8 jOOλ improves the JDK libraries in areas where the Expert Group's focus was elsewhere. It adds tuple support, function support, and a lot of additional functionality around sequential Streams. The JDK 8's main efforts (default methods, lambdas, and the Stream API) were focused around maintaining backwards compatibility and implementing a functional API for parallelism.",
+            "homepage": "http://www.jooq.org/products",
             "id": 17339218,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2024-08-01T12:21:02Z",
+            "open_issues": 45,
             "owner": "jOOQ",
             "repo": "jOOL",
-            "stars": 2119
+            "stars": 2119,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -396,12 +617,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GS Collections has been migrated to the Eclipse Foundation, re-branded as Eclipse Collections.  https://www.eclipse.org/collections/",
+            "homepage": "https://www.eclipse.org/collections/",
             "id": 3041887,
             "language": "Java",
+            "license": null,
             "last_commit": "2023-03-20T19:23:56Z",
+            "open_issues": 25,
             "owner": "goldmansachs",
             "repo": "gs-collections",
-            "stars": 1822
+            "stars": 1822,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -412,12 +638,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Port of LevelDB to Java",
+            "homepage": null,
             "id": 2101910,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2022-11-19T02:04:32Z",
+            "open_issues": 36,
             "owner": "dain",
             "repo": "leveldb",
-            "stars": 1556
+            "stars": 1556,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -428,12 +659,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hollow is a java library and toolset for disseminating in-memory datasets from a single producer to many consumers for high performance read-only access.",
+            "homepage": null,
             "id": 75422566,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T23:36:24Z",
+            "open_issues": 160,
             "owner": "Netflix",
             "repo": "hollow",
-            "stars": 1367
+            "stars": 1367,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -444,12 +680,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An advanced, but easy to use, platform for writing functional applications in Java 8.",
+            "homepage": null,
             "id": 29557376,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2023-03-21T11:08:31Z",
+            "open_issues": 28,
             "owner": "AOL-archive",
             "repo": "cyclops",
-            "stars": 1327
+            "stars": 1327,
+            "topics": [
+              "asynchronous",
+              "collections",
+              "data-structures",
+              "functional-programming",
+              "java",
+              "java8",
+              "monad",
+              "monad-transformers",
+              "monoid",
+              "reactive",
+              "reactive-streams",
+              "streams",
+              "streams-api"
+            ]
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -460,12 +715,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Immutable in-memory R-tree and R*-tree implementations in Java with reactive api",
+            "homepage": null,
             "id": 23350791,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-30T11:22:38Z",
+            "open_issues": 37,
             "owner": "davidmoten",
             "repo": "rtree",
-            "stars": 1141
+            "stars": 1141,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -476,12 +736,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Java large off heap cache",
+            "homepage": null,
             "id": 26888367,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2024-09-12T16:42:16Z",
+            "open_issues": 24,
             "owner": "snazy",
             "repo": "ohc",
-            "stars": 1093
+            "stars": 1093,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -492,12 +757,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "High performance JVM JSON library",
+            "homepage": "https://dsl-platform.com",
             "id": 45384078,
             "language": "Java",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-06-29T12:28:41Z",
+            "open_issues": 49,
             "owner": "ngs-doo",
             "repo": "dsl-json",
-            "stars": 1071
+            "stars": 1071,
+            "topics": [
+              "android",
+              "high-performance",
+              "java",
+              "json",
+              "kotlin",
+              "scala"
+            ]
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -508,12 +785,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "High Performance Primitive Collections for Java",
+            "homepage": "http://labs.carrotsearch.com",
             "id": 1397974,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-13T19:58:21Z",
+            "open_issues": 5,
             "owner": "carrotsearch",
             "repo": "hppc",
-            "stars": 1052
+            "stars": 1052,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -524,12 +806,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Java Collections till the last breadcrumb of memory and performance",
+            "homepage": "https://koloboke.com/",
             "id": 14376799,
             "language": "Java",
+            "license": null,
             "last_commit": "2017-02-01T10:43:20Z",
+            "open_issues": 40,
             "owner": "leventov",
             "repo": "Koloboke",
-            "stars": 1017
+            "stars": 1017,
+            "topics": [
+              "annotation-processor",
+              "collections",
+              "hashmap",
+              "high-performance",
+              "java",
+              "java-collections",
+              "koloboke",
+              "primitive-specializations"
+            ]
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -540,12 +836,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lightning Memory Database (LMDB) for Java: a low latency, transactional, sorted, embedded, key-value store",
+            "homepage": null,
             "id": 60480511,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-14T11:36:25Z",
+            "open_issues": 14,
             "owner": "lmdbjava",
             "repo": "lmdbjava",
-            "stars": 873
+            "stars": 873,
+            "topics": [
+              "database",
+              "embedded-database",
+              "in-memory",
+              "java",
+              "key-value",
+              "lmdb",
+              "low-latency"
+            ]
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -556,12 +865,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Zero-allocation hashing for Java",
+            "homepage": null,
             "id": 26002040,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-21T14:41:55Z",
+            "open_issues": 30,
             "owner": "OpenHFT",
             "repo": "Zero-Allocation-Hashing",
-            "stars": 845
+            "stars": 845,
+            "topics": [
+              "cityhash",
+              "farmhash",
+              "hash-functions",
+              "hashing",
+              "high-performance",
+              "java",
+              "murmurhash3",
+              "openhft",
+              "xxhash"
+            ]
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -572,12 +896,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Persistent Java Collections Library",
+            "homepage": null,
             "id": 17937004,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2025-07-23T04:18:26Z",
+            "open_issues": 21,
             "owner": "hrldcpr",
             "repo": "pcollections",
-            "stars": 788
+            "stars": 788,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -588,12 +917,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "binary serialization format",
+            "homepage": null,
             "id": 41968300,
             "language": "Java",
+            "license": "CC0-1.0",
             "last_commit": "2026-02-26T15:48:03Z",
+            "open_issues": 10,
             "owner": "pascaldekloe",
             "repo": "colfer",
-            "stars": 759
+            "stars": 759,
+            "topics": [
+              "android",
+              "binary-data",
+              "c",
+              "code-generation",
+              "code-generator",
+              "cross-platform",
+              "golang",
+              "high-performance",
+              "java",
+              "javascript",
+              "node-js",
+              "serializable-objects",
+              "serialization",
+              "serialization-format"
+            ]
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -604,12 +953,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A low-level integer compression library in Java ",
+            "homepage": null,
             "id": 4931095,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-24T16:32:25Z",
+            "open_issues": 4,
             "owner": "fast-pack",
             "repo": "JavaFastPFOR",
-            "stars": 568
+            "stars": 568,
+            "topics": [
+              "compression",
+              "java"
+            ]
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -620,12 +977,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chronicle Bytes has a similar purpose to Java NIO's ByteBuffer with many extensions",
+            "homepage": "http://chronicle.software",
             "id": 31261671,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-30T13:10:10Z",
+            "open_issues": 12,
             "owner": "OpenHFT",
             "repo": "Chronicle-Bytes",
-            "stars": 435
+            "stars": 435,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -636,12 +998,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Geohash utitlies in java",
+            "homepage": null,
             "id": 10808572,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T17:12:31Z",
+            "open_issues": 9,
             "owner": "davidmoten",
             "repo": "geo",
-            "stars": 435
+            "stars": 435,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -652,12 +1019,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fork of Cliff Click's High Scale Library.  Improved with bug fixes and a real build system.",
+            "homepage": null,
             "id": 1621035,
             "language": "Java",
+            "license": null,
             "last_commit": "2015-03-28T02:14:13Z",
+            "open_issues": 5,
             "owner": "boundary",
             "repo": "high-scale-lib",
-            "stars": 421
+            "stars": 421,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -668,12 +1040,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast integer compression in C using the StreamVByte codec",
+            "homepage": "https://fast-pack.github.io/streamvbyte/",
             "id": 56248127,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-07T21:52:05Z",
+            "open_issues": 10,
             "owner": "fast-pack",
             "repo": "streamvbyte",
-            "stars": 417
+            "stars": 417,
+            "topics": [
+              "arm",
+              "compression",
+              "integer-compression",
+              "neon",
+              "simd",
+              "ssse3",
+              "x64"
+            ]
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -684,12 +1069,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A fast object pool for the JVM",
+            "homepage": "http://chrisvest.github.io/stormpot/",
             "id": 1511134,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-27T10:23:16Z",
+            "open_issues": 6,
             "owner": "chrisvest",
             "repo": "stormpot",
-            "stars": 389
+            "stars": 389,
+            "topics": [
+              "concurrency",
+              "connection-pool",
+              "high-performance",
+              "java",
+              "performance",
+              "pool",
+              "tdd"
+            ]
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -700,12 +1098,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Java library for the HyperLogLog algorithm",
+            "homepage": "http://research.neustar.biz/2013/12/24/open-source-release-java-hll/",
             "id": 15389347,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2018-02-07T08:55:20Z",
+            "open_issues": 17,
             "owner": "aggregateknowledge",
             "repo": "java-hll",
-            "stars": 318
+            "stars": 318,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -716,12 +1119,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A gulp of low latency Java",
+            "homepage": null,
             "id": 41914195,
             "language": "Java",
+            "license": null,
             "last_commit": "2019-12-29T18:06:16Z",
+            "open_issues": 4,
             "owner": "TimeAndSpaceIO",
             "repo": "SmoothieMap",
-            "stars": 307
+            "stars": 307,
+            "topics": [
+              "collections",
+              "hashmap",
+              "java",
+              "java-collections",
+              "low-latency",
+              "openhft"
+            ]
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -732,12 +1147,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "External-Memory Sorting in Java",
+            "homepage": null,
             "id": 18065193,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2026-02-03T16:16:13Z",
+            "open_issues": 4,
             "owner": "lemire",
             "repo": "externalsortinginjava",
-            "stars": 262
+            "stars": 262,
+            "topics": [
+              "external-memory",
+              "java",
+              "sort"
+            ]
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -748,12 +1172,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Clojure's data structures modified for use outside of Clojure ",
+            "homepage": null,
             "id": 666669,
             "language": "Java",
+            "license": null,
             "last_commit": "2023-12-17T15:38:56Z",
+            "open_issues": 7,
             "owner": "krukow",
             "repo": "clj-ds",
-            "stars": 225
+            "stars": 225,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -764,12 +1193,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "LMDB for Java",
+            "homepage": null,
             "id": 19858860,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2021-05-28T01:46:47Z",
+            "open_issues": 17,
             "owner": "deephacks",
             "repo": "lmdbjni",
-            "stars": 205
+            "stars": 205,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -780,12 +1214,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "High performance Java implementation of a Cuckoo filter - Apache Licensed",
+            "homepage": null,
             "id": 67781540,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2023-02-03T23:05:32Z",
+            "open_issues": 11,
             "owner": "MGunlogson",
             "repo": "CuckooFilter4J",
-            "stars": 177
+            "stars": 177,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -796,12 +1235,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Java library for quickly and efficiently parsing and writing UUIDs",
+            "homepage": null,
             "id": 118267613,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2023-01-14T23:35:47Z",
+            "open_issues": 5,
             "owner": "jchambers",
             "repo": "fast-uuid",
-            "stars": 175
+            "stars": 175,
+            "topics": [
+              "java",
+              "uuid"
+            ]
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -812,12 +1259,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Java port of a concurrent trie hash map implementation from the Scala collections library",
+            "homepage": null,
             "id": 5765579,
             "language": "Java",
+            "license": null,
             "last_commit": "2020-10-13T08:29:38Z",
+            "open_issues": 3,
             "owner": "romix",
             "repo": "java-concurrent-hash-trie-map",
-            "stars": 155
+            "stars": 155,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -828,12 +1280,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A java.util.HashMap compatible map that won't stall puts or gets when resizing",
+            "homepage": null,
             "id": 18256591,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2022-10-06T19:08:40Z",
+            "open_issues": 3,
             "owner": "giltene",
             "repo": "PauselessHashMap",
-            "stars": 154
+            "stars": 154,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -844,12 +1301,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RTree2D is a 2D immutable R-tree for ultra-fast nearest and intersection queries in plane and spherical coordinates",
+            "homepage": null,
             "id": 132483497,
             "language": "Scala",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-21T20:41:16Z",
+            "open_issues": 11,
             "owner": "plokhotnyuk",
             "repo": "rtree2d",
-            "stars": 145
+            "stars": 145,
+            "topics": [
+              "2d",
+              "geo-index",
+              "high-performance",
+              "rtree",
+              "scala",
+              "scala-js",
+              "scala-native",
+              "sort-tile-recursive",
+              "spatial-index",
+              "str",
+              "str-packing"
+            ]
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -860,12 +1334,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 19481229,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2021-12-25T00:02:11Z",
+            "open_issues": 1,
             "owner": "boundary",
             "repo": "fasttuple",
-            "stars": 142
+            "stars": 142,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -876,12 +1355,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Library for creating In-memory circular buffers that use direct ByteBuffers to minimize GC overhead",
+            "homepage": null,
             "id": 1567760,
             "language": "Java",
+            "license": null,
             "last_commit": "2022-05-31T18:29:06Z",
+            "open_issues": 7,
             "owner": "cowtowncoder",
             "repo": "low-gc-membuffers",
-            "stars": 141
+            "stars": 141,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -892,12 +1376,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A Java implementation of Transducers",
+            "homepage": null,
             "id": 24384774,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2023-06-03T21:40:36Z",
+            "open_issues": 2,
             "owner": "cognitect-labs",
             "repo": "transducers-java",
-            "stars": 119
+            "stars": 119,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -908,12 +1397,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Immutable key/value store with efficient space utilization and fast reads. They are ideal for the use-case of tables built by batch processes and shipped to multiple servers.",
+            "homepage": "http://engineering.indeedblog.com/blog/2018/02/indeed-mph/",
             "id": 114902411,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2023-07-11T18:58:19Z",
+            "open_issues": 1,
             "owner": "indeedeng",
             "repo": "mph-table",
-            "stars": 101
+            "stars": 101,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -924,12 +1418,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bloofi: A java implementation of multidimensional Bloom filters",
+            "homepage": null,
             "id": 53431974,
             "language": "Java",
+            "license": "LGPL-3.0",
             "last_commit": "2025-07-01T16:17:25Z",
+            "open_issues": 0,
             "owner": "lemire",
             "repo": "bloofi",
-            "stars": 85
+            "stars": 85,
+            "topics": [
+              "bloom-filters",
+              "java"
+            ]
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -940,12 +1442,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rolling hash functions in Java",
+            "homepage": "http://code.google.com/p/rollinghashjava/",
             "id": 1468436,
             "language": "Java",
+            "license": null,
             "last_commit": "2016-05-07T23:15:49Z",
+            "open_issues": 0,
             "owner": "lemire",
             "repo": "rollinghashjava",
-            "stars": 80
+            "stars": 80,
+            "topics": [
+              "hashing",
+              "java",
+              "rolling-hash-functions"
+            ]
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -956,12 +1467,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 122429896,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2019-05-30T00:32:51Z",
+            "open_issues": 3,
             "owner": "lightbend",
             "repo": "reactive-streams-utils",
-            "stars": 64
+            "stars": 64,
+            "topics": [
+              "java",
+              "proposal",
+              "reactive-streams"
+            ]
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -972,12 +1492,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 28034496,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2015-05-10T07:56:32Z",
+            "open_issues": 1,
             "owner": "belliottsmith",
             "repo": "injector",
-            "stars": 59
+            "stars": 59,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -988,12 +1513,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A very memory-efficient trie (radix tree) implementation",
+            "homepage": null,
             "id": 1601645,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2012-06-25T17:37:18Z",
+            "open_issues": 9,
             "owner": "bryanduxbury",
             "repo": "lightweight_trie",
-            "stars": 49
+            "stars": 49,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -1004,12 +1534,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Parallel boolean circuit evaluation",
+            "homepage": null,
             "id": 120205336,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2018-10-28T12:57:46Z",
+            "open_issues": 1,
             "owner": "richardstartin",
             "repo": "splitmap",
-            "stars": 27
+            "stars": 27,
+            "topics": [
+              "bitmap",
+              "bitset",
+              "boolean-algebra",
+              "boolean-circuits",
+              "indexing",
+              "roaringbitmap"
+            ]
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -1020,12 +1562,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Java API for Onyx",
+            "homepage": null,
             "id": 46595778,
             "language": "Java",
+            "license": "EPL-1.0",
             "last_commit": "2017-06-01T03:15:46Z",
+            "open_issues": 1,
             "owner": "onyx-platform",
             "repo": "onyx-java",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         }
@@ -1042,12 +1589,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GraalVM compiles applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀",
+            "homepage": "https://www.graalvm.org",
             "id": 49662222,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T22:26:47Z",
+            "open_issues": 855,
             "owner": "oracle",
             "repo": "graal",
-            "stars": 21679
+            "stars": 21679,
+            "topics": [
+              "aot",
+              "compiler",
+              "graalvm",
+              "java"
+            ]
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -1058,12 +1615,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A Java API for generating .java source files.",
+            "homepage": null,
             "id": 7961991,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2024-10-10T21:04:58Z",
+            "open_issues": 142,
             "owner": "square",
             "repo": "javapoet",
-            "stars": 10846
+            "stars": 10846,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -1074,12 +1636,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of source code generators for Java.",
+            "homepage": null,
             "id": 10230369,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-18T14:59:32Z",
+            "open_issues": 89,
             "owner": "google",
             "repo": "auto",
-            "stars": 10551
+            "stars": 10551,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -1090,12 +1657,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Catch common Java mistakes as compile-time errors",
+            "homepage": "https://errorprone.info",
             "id": 23206290,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T19:16:19Z",
+            "open_issues": 523,
             "owner": "google",
             "repo": "error-prone",
-            "stars": 7227
+            "stars": 7227,
+            "topics": [
+              "java",
+              "static-analysis"
+            ]
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -1106,12 +1681,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Java 1-25 Parser and Abstract Syntax Tree for Java with advanced analysis functionalities.",
+            "homepage": "https://javaparser.org",
             "id": 2675355,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T19:44:26Z",
+            "open_issues": 450,
             "owner": "javaparser",
             "repo": "javaparser",
-            "stars": 6142
+            "stars": 6142,
+            "topics": [
+              "abstract-syntax-tree",
+              "ast",
+              "code-analysis",
+              "code-generation",
+              "code-generator",
+              "java",
+              "javadoc",
+              "javaparser",
+              "javasymbolsolver",
+              "parser",
+              "syntax-tree"
+            ]
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -1122,12 +1714,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Compiles Java bytecode to JavaScript, WebAssembly and C",
+            "homepage": "https://teavm.org",
             "id": 13045763,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T17:09:25Z",
+            "open_issues": 188,
             "owner": "konsoletyper",
             "repo": "teavm",
-            "stars": 3100
+            "stars": 3100,
+            "topics": [
+              "aot",
+              "java",
+              "javascript",
+              "jvm",
+              "webassembly"
+            ]
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -1138,12 +1741,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Eta Programming Language, a dialect of Haskell on the JVM",
+            "homepage": "https://eta-lang.org",
             "id": 55689010,
             "language": "Haskell",
+            "license": "BSD-3-Clause",
             "last_commit": "2022-07-31T17:14:19Z",
+            "open_issues": 242,
             "owner": "typelead",
             "repo": "eta",
-            "stars": 2634
+            "stars": 2634,
+            "topics": [
+              "eta",
+              "functional-programming",
+              "haskell",
+              "jvm"
+            ]
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -1154,12 +1767,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Elegant parsing in Java and Scala - lightweight, easy-to-use, powerful.",
+            "homepage": "http://parboiled.org",
             "id": 327391,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T04:05:49Z",
+            "open_issues": 41,
             "owner": "sirthias",
             "repo": "parboiled",
-            "stars": 1317
+            "stars": 1317,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -1170,12 +1788,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Testing tools for javac and annotation processors",
+            "homepage": null,
             "id": 12390121,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-18T14:54:31Z",
+            "open_issues": 43,
             "owner": "google",
             "repo": "compile-testing",
-            "stars": 722
+            "stars": 722,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -1186,12 +1809,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Obsolete repository. Moved to oracle/graal.",
+            "homepage": null,
             "id": 49868718,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2018-12-05T11:05:28Z",
+            "open_issues": 10,
             "owner": "graalvm",
             "repo": "sulong",
-            "stars": 626
+            "stars": 626,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -1202,12 +1830,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Java 8 annotation processor and framework for deriving algebraic data types constructors, pattern-matching, folds, optics and typeclasses.",
+            "homepage": null,
             "id": 42741668,
             "language": "Java",
+            "license": null,
             "last_commit": "2022-12-01T03:28:00Z",
+            "open_issues": 18,
             "owner": "derive4j",
             "repo": "derive4j",
-            "stars": 577
+            "stars": 577,
+            "topics": [
+              "algebra",
+              "algebraic-data-types",
+              "annotation-processor",
+              "catamorphisms",
+              "derive4j",
+              "discriminated-unions",
+              "exhaustiveness-checking",
+              "fold",
+              "functional-programming",
+              "java",
+              "java-8",
+              "laziness",
+              "optics",
+              "sum-types",
+              "tagged-unions",
+              "visitor",
+              "visitor-pattern"
+            ]
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -1218,12 +1869,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Build parsers in Java",
+            "homepage": null,
             "id": 7959279,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-21T00:04:46Z",
+            "open_issues": 5,
             "owner": "jparsec",
             "repo": "jparsec",
-            "stars": 354
+            "stars": 354,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -1234,12 +1890,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Write parsers for arbitrary text inputs, entirely in Java, with no preprocessing phase",
+            "homepage": null,
             "id": 19060965,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2016-04-03T02:48:45Z",
+            "open_issues": 19,
             "owner": "fge",
             "repo": "grappa",
-            "stars": 67
+            "stars": 67,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         }
@@ -1256,12 +1917,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The missing bridge between Java and native C++",
+            "homepage": null,
             "id": 18992193,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-10T23:19:17Z",
+            "open_issues": 113,
             "owner": "bytedeco",
             "repo": "javacpp",
-            "stars": 4705
+            "stars": 4705,
+            "topics": [
+              "c",
+              "c-plus-plus",
+              "cpp",
+              "java",
+              "javacpp",
+              "jni",
+              "maven-plugin"
+            ]
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -1272,12 +1946,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Java Bindings for V8",
+            "homepage": null,
             "id": 22579786,
             "language": "Java",
+            "license": null,
             "last_commit": "2025-11-14T04:52:55Z",
+            "open_issues": 178,
             "owner": "eclipsesource",
             "repo": "J2V8",
-            "stars": 2627
+            "stars": 2627,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -1288,12 +1967,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Java Abstracted Foreign Function Layer",
+            "homepage": null,
             "id": 1323052,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-20T19:06:23Z",
+            "open_issues": 98,
             "owner": "jnr",
             "repo": "jnr-ffi",
-            "stars": 1325
+            "stars": 1325,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -1304,12 +1988,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Low-overhead, non-blocking I/O, external Process implementation for Java",
+            "homepage": null,
             "id": 11944439,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-07-10T18:58:14Z",
+            "open_issues": 36,
             "owner": "brettwooldridge",
             "repo": "NuProcess",
-            "stars": 739
+            "stars": 739,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -1320,12 +2009,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Compile Java byte-code to native CPU's.",
+            "homepage": "https://www.mikekohn.net/micro/java_grinder.php",
             "id": 15153331,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2026-07-04T17:09:16Z",
+            "open_issues": 7,
             "owner": "mikeakohn",
             "repo": "java_grinder",
-            "stars": 526
+            "stars": 526,
+            "topics": [
+              "6502",
+              "assembly",
+              "atari",
+              "c64",
+              "java",
+              "nintendo",
+              "playstation",
+              "sega"
+            ]
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -1336,12 +2039,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A JNI code generator based on the JNI generator used by the eclipse SWT project",
+            "homepage": "http://fusesource.github.io/hawtjni/",
             "id": 519620,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2023-07-25T17:26:02Z",
+            "open_issues": 26,
             "owner": "fusesource",
             "repo": "hawtjni",
-            "stars": 174
+            "stars": 174,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -1352,12 +2060,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Jssembly is a library that allows you to execute native assembly from Java.",
+            "homepage": null,
             "id": 23011413,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2017-04-18T03:49:53Z",
+            "open_issues": 2,
             "owner": "dvx",
             "repo": "jssembly",
-            "stars": 129
+            "stars": 129,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         }
@@ -1374,12 +2087,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A meticulous HTTP client for the JVM, Android, and GraalVM.",
+            "homepage": "https://lysine.dev/okhttp/",
             "id": 5152285,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T21:12:08Z",
+            "open_issues": 143,
             "owner": "lysine-dev",
             "repo": "okhttp",
-            "stars": 47056
+            "stars": 47056,
+            "topics": [
+              "android",
+              "graalvm",
+              "java",
+              "kotlin"
+            ]
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -1390,12 +2113,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GoReplay is an open-source tool for capturing and replaying live HTTP traffic into a test environment in order to continuously test your system with real data. It can be used to increase confidence in code deployments, configuration changes and infrastructure changes.",
+            "homepage": "https://goreplay.org",
             "id": 10379607,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2026-01-27T15:26:22Z",
+            "open_issues": 341,
             "owner": "probelabs",
             "repo": "goreplay",
-            "stars": 19319
+            "stars": 19319,
+            "topics": [
+              "devops",
+              "go",
+              "qa",
+              "testing",
+              "testing-tools"
+            ]
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -1406,12 +2140,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simulating shitty network connections so you can build better systems.",
+            "homepage": null,
             "id": 26516975,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2025-03-20T15:58:13Z",
+            "open_issues": 26,
             "owner": "tylertreat",
             "repo": "comcast",
-            "stars": 10512
+            "stars": 10512,
+            "topics": [
+              "bandwidth",
+              "chaos",
+              "chaos-engineering",
+              "go",
+              "latency",
+              "packet-loss"
+            ]
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -1422,12 +2168,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Efficient reliable UDP unicast, UDP multicast, and IPC message transport",
+            "homepage": "https://aeron.io",
             "id": 16621659,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T15:56:29Z",
+            "open_issues": 26,
             "owner": "aeron-io",
             "repo": "aeron",
-            "stars": 8824
+            "stars": 8824,
+            "topics": [
+              "c",
+              "c-plus-plus",
+              "ipc",
+              "java",
+              "messaging",
+              "multicast-streams"
+            ]
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -1438,12 +2196,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Tools for keeping your cloud operating in top form. Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.",
+            "homepage": null,
             "id": 4931659,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2018-12-18T09:29:22Z",
+            "open_issues": 43,
             "owner": "Netflix",
             "repo": "SimianArmy",
-            "stars": 7981
+            "stars": 7981,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -1454,12 +2217,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Your go-to microservice framework for any situation, from the creator of Netty et al. You can build any type of microservice leveraging your favorite technologies,  including gRPC, Thrift, Kotlin, Retrofit, Reactive Streams, Spring Boot and Dropwizard.",
+            "homepage": "https://armeria.dev",
             "id": 46251204,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T01:04:46Z",
+            "open_issues": 700,
             "owner": "line",
             "repo": "armeria",
-            "stars": 5133
+            "stars": 5133,
+            "topics": [
+              "gateway",
+              "grpc",
+              "grpc-client",
+              "grpc-server",
+              "hacktoberfest",
+              "http",
+              "http-client",
+              "http-server",
+              "http2",
+              "micro-framework",
+              "microservices",
+              "netty",
+              "rpc",
+              "rpc-client",
+              "rpc-framework",
+              "rpc-library",
+              "rpc-server",
+              "thrift",
+              "thrift-client",
+              "thrift-server"
+            ]
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -1470,12 +2259,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TCP/IP packet demultiplexer. Download from:",
+            "homepage": "http://downloads.digitalcorpora.org/downloads/tcpflow/",
             "id": 3889407,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2026-01-29T22:18:29Z",
+            "open_issues": 74,
             "owner": "simsong",
             "repo": "tcpflow",
-            "stars": 1775
+            "stars": 1775,
+            "topics": [
+              "digital-forensics",
+              "forensics",
+              "tcp-protocol",
+              "tcpip"
+            ]
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -1486,12 +2285,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Edit and replay captured network traffic at arbitrary speeds — a suite of pcap tools for *NIX and Windows.",
+            "homepage": "https://tcpreplay.appneta.com",
             "id": 14542959,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-15T16:15:36Z",
+            "open_issues": 0,
             "owner": "appneta",
             "repo": "tcpreplay",
-            "stars": 1344
+            "stars": 1344,
+            "topics": [
+              "c",
+              "flow",
+              "netflow",
+              "netmap",
+              "packet-generator",
+              "pcap",
+              "performance",
+              "performance-testing",
+              "replays-pcap-files",
+              "tcpreplay",
+              "traffic"
+            ]
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -1502,12 +2318,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Java library for capturing, crafting, and sending packets.",
+            "homepage": "https://www.pcap4j.org/",
             "id": 3005042,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2022-09-05T12:47:30Z",
+            "open_issues": 73,
             "owner": "kaitoy",
             "repo": "pcap4j",
-            "stars": 1240
+            "stars": 1240,
+            "topics": [
+              "capture-packets",
+              "java",
+              "java-library",
+              "jna",
+              "libpcap",
+              "npcap",
+              "pcap-library",
+              "sending-packets",
+              "winpcap"
+            ]
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -1518,12 +2349,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reactive stubs for gRPC",
+            "homepage": null,
             "id": 109887296,
             "language": "Java",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-06-02T18:03:13Z",
+            "open_issues": 32,
             "owner": "salesforce",
             "repo": "reactive-grpc",
-            "stars": 840
+            "stars": 840,
+            "topics": [
+              "grpc-java",
+              "reactor",
+              "rxjava2"
+            ]
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -1534,12 +2374,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Chaos engineering tool for simulating real-world distributed system failures",
+            "homepage": null,
             "id": 41590877,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2021-01-13T12:31:12Z",
+            "open_issues": 8,
             "owner": "mefellows",
             "repo": "muxy",
-            "stars": 827
+            "stars": 827,
+            "topics": [
+              "chaos",
+              "chaos-engineering",
+              "golang",
+              "hacktoberfest",
+              "hacktoberfest2021",
+              "proxy",
+              "resilience",
+              "testing"
+            ]
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -1550,12 +2404,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unconventional I/O library for Java",
+            "homepage": null,
             "id": 6667447,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T15:15:55Z",
+            "open_issues": 18,
             "owner": "odnoklassniki",
             "repo": "one-nio",
-            "stars": 723
+            "stars": 723,
+            "topics": [
+              "io",
+              "java",
+              "mmap",
+              "native",
+              "network",
+              "nio"
+            ]
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -1566,12 +2432,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Linux packet crafting tool.",
+            "homepage": null,
             "id": 34642062,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2020-11-02T16:00:02Z",
+            "open_issues": 0,
             "owner": "rafael-santiago",
             "repo": "pig",
-            "stars": 478
+            "stars": 478,
+            "topics": [
+              "arp-spoofing",
+              "denial-of-service",
+              "forensics",
+              "hacking",
+              "hacking-tool",
+              "intrusion-prevention",
+              "network-analysis",
+              "network-protocols",
+              "network-security-monitoring",
+              "network-test",
+              "networking",
+              "packet-crafting"
+            ]
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -1582,12 +2466,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A High Performance Network ( TCP/IP ) Library",
+            "homepage": "https://teamcity.chronicle.software/project/OpenHFT_ChronicleNetwork?mode=builds",
             "id": 29302186,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2023-08-07T05:44:04Z",
+            "open_issues": 0,
             "owner": "OpenHFT",
             "repo": "Chronicle-Network",
-            "stars": 253
+            "stars": 253,
+            "topics": [
+              "chronicle",
+              "chronicle-network",
+              "java",
+              "marshal",
+              "socket",
+              "tcp-ip",
+              "udp"
+            ]
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -1598,12 +2495,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Java API over Accelio",
+            "homepage": null,
             "id": 14720290,
             "language": "Java",
+            "license": null,
             "last_commit": "2017-01-15T15:52:45Z",
+            "open_issues": 11,
             "owner": "accelio",
             "repo": "JXIO",
-            "stars": 85
+            "stars": 85,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -1614,12 +2516,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "jRT measures the response time of a java application to socket-based requests",
+            "homepage": null,
             "id": 25200960,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2016-07-30T11:17:11Z",
+            "open_issues": 9,
             "owner": "LatencyUtils",
             "repo": "jRT",
-            "stars": 50
+            "stars": 50,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -1630,12 +2537,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "\"I am fluent in over 6 million forms of communication!\"",
+            "homepage": null,
             "id": 18419894,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2022-11-16T09:26:52Z",
+            "open_issues": 71,
             "owner": "k3po",
             "repo": "k3po",
-            "stars": 50
+            "stars": 50,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -1646,12 +2558,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Proteus Java Client",
+            "homepage": "https://www.netifi.com",
             "id": 115495336,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2019-05-03T18:20:52Z",
+            "open_issues": 3,
             "owner": "netifi-proteus",
             "repo": "proteus-java",
-            "stars": 42
+            "stars": 42,
+            "topics": [
+              "java",
+              "protobuf",
+              "reactive-streams",
+              "reactor-core",
+              "rsocket",
+              "rxjava"
+            ]
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         }
@@ -1668,12 +2592,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BCC - Tools for BPF-based Linux IO analysis, networking, monitoring, and more",
+            "homepage": null,
             "id": 34921116,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T11:24:41Z",
+            "open_issues": 1072,
             "owner": "iovisor",
             "repo": "bcc",
-            "stars": 22645
+            "stars": 22644,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -1684,12 +2613,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Performance analysis tools based on Linux perf_events (aka perf) and ftrace",
+            "homepage": null,
             "id": 21708091,
             "language": "Shell",
+            "license": "GPL-2.0",
             "last_commit": "2023-11-22T18:01:21Z",
+            "open_issues": 56,
             "owner": "brendangregg",
             "repo": "perf-tools",
-            "stars": 10464
+            "stars": 10464,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -1700,12 +2634,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Performance monitoring and benchmarking suite",
+            "homepage": "https://hpc.fau.de/research/tools/likwid/",
             "id": 35045238,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-19T14:16:28Z",
+            "open_issues": 92,
             "owner": "RRZE-HPC",
             "repo": "likwid",
-            "stars": 1936
+            "stars": 1936,
+            "topics": [
+              "amd-gpu",
+              "armv8",
+              "assembly",
+              "benchmarking",
+              "c",
+              "hardware-performance-counters",
+              "hwloc",
+              "instrumentation",
+              "likwid",
+              "linux",
+              "lua",
+              "nvidia-gpu",
+              "performance-analysis",
+              "performance-engineering",
+              "pin",
+              "power9",
+              "profiling",
+              "threading",
+              "x86"
+            ]
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -1716,12 +2675,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "simple disk I/0 latency measuring tool",
+            "homepage": null,
             "id": 33072833,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2025-12-25T15:00:11Z",
+            "open_issues": 0,
             "owner": "koct9i",
             "repo": "ioping",
-            "stars": 987
+            "stars": 987,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         }
@@ -1738,12 +2702,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A memory leak detection library for Android.",
+            "homepage": "https://square.github.io/leakcanary",
             "id": 34824499,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T22:00:36Z",
+            "open_issues": 131,
             "owner": "square",
             "repo": "leakcanary",
-            "stars": 29987
+            "stars": 29987,
+            "topics": [
+              "android",
+              "java",
+              "kotlin",
+              "kotlin-android",
+              "leak-canary",
+              "leak-trace",
+              "leakcanary",
+              "memory-leak",
+              "outofmemory",
+              "outofmemoryerror"
+            ]
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -1754,12 +2734,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Zipkin is a distributed tracing system",
+            "homepage": "https://zipkin.io/",
             "id": 4576305,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-06T04:10:29Z",
+            "open_issues": 175,
             "owner": "openzipkin",
             "repo": "zipkin",
-            "stars": 17455
+            "stars": 17455,
+            "topics": [
+              "distributed-tracing",
+              "observability",
+              "openzipkin",
+              "tracing",
+              "zipkin"
+            ]
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -1770,12 +2761,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sampling CPU and HEAP profiler for Java featuring AsyncGetCallTrace + perf_events",
+            "homepage": "https://github.com/async-profiler/async-profiler/releases",
             "id": 56894212,
             "language": "C++",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T19:57:10Z",
+            "open_issues": 61,
             "owner": "async-profiler",
             "repo": "async-profiler",
-            "stars": 9126
+            "stars": 9126,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -1786,12 +2782,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Production-safe dynamic tracing and diagnostics for Java applications—attach to live JVMs with no restart or recompilation.",
+            "homepage": null,
             "id": 23439463,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T09:06:00Z",
+            "open_issues": 8,
             "owner": "btraceio",
             "repo": "btrace",
-            "stars": 5991
+            "stars": 5991,
+            "topics": [
+              "btrace",
+              "bytecode-instrumentation",
+              "diagnostics",
+              "dtrace",
+              "java",
+              "java-agent",
+              "jvm",
+              "observability",
+              "profiling",
+              "runtime-instrumentation",
+              "tracing"
+            ]
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -1802,12 +2815,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An application observability facade for the most popular observability tools. Think SLF4J, but for observability.",
+            "homepage": "https://micrometer.io",
             "id": 87859908,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T21:22:43Z",
+            "open_issues": 321,
             "owner": "micrometer-metrics",
             "repo": "micrometer",
-            "stars": 4891
+            "stars": 4891,
+            "topics": [
+              "cloud-native",
+              "java",
+              "metrics",
+              "microservices",
+              "monitoring",
+              "observability"
+            ]
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -1818,12 +2843,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fork of tagtraum industries' GCViewer. Tagtraum stopped development in 2008, I aim to improve support for Sun's / Oracle's java 1.6+ garbage collector logs (including G1 collector)",
+            "homepage": "https://github.com/chewiebug/GCViewer/wiki",
             "id": 2629978,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2026-06-20T16:23:39Z",
+            "open_issues": 84,
             "owner": "chewiebug",
             "repo": "GCViewer",
-            "stars": 4645
+            "stars": 4645,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -1834,12 +2864,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Small set of tools for JVM troublshooting, monitoring and profiling.",
+            "homepage": null,
             "id": 4166277,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2024-01-26T12:20:14Z",
+            "open_issues": 15,
             "owner": "aragozin",
             "repo": "jvm-tools",
-            "stars": 3340
+            "stars": 3340,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -1850,12 +2885,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Log analyser / visualiser for Java HotSpot JIT compiler. Inspect inlining decisions, hot methods, bytecode, and assembly. View results in the JavaFX user interface.",
+            "homepage": null,
             "id": 13217369,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2025-12-28T13:31:13Z",
+            "open_issues": 17,
             "owner": "AdoptOpenJDK",
             "repo": "jitwatch",
-            "stars": 3305
+            "stars": 3305,
+            "topics": [
+              "escape-analysis",
+              "hotspot",
+              "hotspot-jit-compiler",
+              "java",
+              "javafx",
+              "jit-compiler",
+              "jitwatch",
+              "log-analyser"
+            ]
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -1866,12 +2915,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JVM Profiler Sending Metrics to Kafka, Console Output or Custom Reporter",
+            "homepage": null,
             "id": 116432428,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-21T02:04:42Z",
+            "open_issues": 20,
             "owner": "uber-common",
             "repo": "jvm-profiler",
-            "stars": 1804
+            "stars": 1804,
+            "topics": [
+              "agent",
+              "java",
+              "performance",
+              "profiler"
+            ]
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -1882,12 +2941,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A java agent to generate method mappings to use with the linux `perf` tool",
+            "homepage": null,
             "id": 6813325,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2020-08-28T20:44:09Z",
+            "open_issues": 33,
             "owner": "jvm-profiling-tools",
             "repo": "perf-map-agent",
-            "stars": 1701
+            "stars": 1701,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -1898,12 +2962,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A sampling JVM profiler without the safepoint sample bias",
+            "homepage": "https://github.com/RichardWarburton/honest-profiler/wiki",
             "id": 16926533,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2023-12-05T22:06:45Z",
+            "open_issues": 64,
             "owner": "jvm-profiling-tools",
             "repo": "honest-profiler",
-            "stars": 1251
+            "stars": 1251,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -1914,12 +2983,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Java monitoring for the command-line, profiler included",
+            "homepage": null,
             "id": 39074930,
             "language": "Java",
+            "license": "GPL-2.0",
             "last_commit": "2021-08-04T02:45:20Z",
+            "open_issues": 63,
             "owner": "patric-r",
             "repo": "jvmtop",
-            "stars": 1238
+            "stars": 1238,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -1930,12 +3004,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Java Agent for Memory Measurements",
+            "homepage": null,
             "id": 1388495,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2024-01-18T22:52:33Z",
+            "open_issues": 12,
             "owner": "jbellis",
             "repo": "jamm",
-            "stars": 693
+            "stars": 693,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -1946,12 +3025,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Java agent that rewrites bytecode to instrument allocation sites",
+            "homepage": null,
             "id": 30677439,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-05T18:13:35Z",
+            "open_issues": 11,
             "owner": "google",
             "repo": "allocation-instrumenter",
-            "stars": 492
+            "stars": 492,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -1962,12 +3046,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "production heap profiling for the JVM.  compatible with google-perftools.",
+            "homepage": null,
             "id": 867605,
             "language": "C",
+            "license": null,
             "last_commit": "2016-05-11T21:12:18Z",
+            "open_issues": 1,
             "owner": "mariusae",
             "repo": "heapster",
-            "stars": 394
+            "stars": 394,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -1978,12 +3067,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PerfJ is a wrapper of linux perf for java programs.",
+            "homepage": null,
             "id": 37090169,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2019-05-03T10:03:08Z",
+            "open_issues": 4,
             "owner": "coderplay",
             "repo": "perfj",
-            "stars": 354
+            "stars": 354,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -1994,12 +3088,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple JVM Profiler Using StatsD and Other Metrics Backends",
+            "homepage": null,
             "id": 29201575,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2026-01-15T22:52:03Z",
+            "open_issues": 10,
             "owner": "etsy",
             "repo": "statsd-jvm-profiler",
-            "stars": 335
+            "stars": 335,
+            "topics": [
+              "non-sox"
+            ]
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -2010,12 +3111,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sends stacktrace-level performance data from a JVM process to Riemann.",
+            "homepage": null,
             "id": 20271491,
             "language": "Clojure",
+            "license": "EPL-1.0",
             "last_commit": "2026-04-05T20:43:58Z",
+            "open_issues": 1,
             "owner": "riemann",
             "repo": "riemann-jvm-profiler",
-            "stars": 296
+            "stars": 296,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -2026,12 +3132,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Performance visualisation tools",
+            "homepage": null,
             "id": 87222319,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2019-02-19T20:50:24Z",
+            "open_issues": 4,
             "owner": "epickrram",
             "repo": "grav",
-            "stars": 293
+            "stars": 293,
+            "topics": [
+              "ebpf",
+              "flamegraph",
+              "monitoring",
+              "observability",
+              "performance"
+            ]
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -2042,12 +3159,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Get Method Sampling from Java Flight Recorder Dump and convert to FlameGraph compatible format.",
+            "homepage": null,
             "id": 34377226,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2023-10-25T06:04:04Z",
+            "open_issues": 5,
             "owner": "chrishantha",
             "repo": "jfr-flame-graph",
-            "stars": 271
+            "stars": 271,
+            "topics": [
+              "flamegraph",
+              "java",
+              "java-flight-recordings",
+              "jmc-parser"
+            ]
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -2058,12 +3185,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Java memory allocation profiler",
+            "homepage": "https://code.devexperts.com/display/AProf/",
             "id": 14967867,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2023-12-16T17:32:09Z",
+            "open_issues": 12,
             "owner": "devexperts",
             "repo": "aprof",
-            "stars": 224
+            "stars": 224,
+            "topics": [
+              "allocation-profiling",
+              "java-agent",
+              "profiler"
+            ]
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -2074,12 +3210,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Best-of-breed OpenTracing utilities, instrumentations and extensions",
+            "homepage": null,
             "id": 44250608,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2025-06-25T07:43:29Z",
+            "open_issues": 13,
             "owner": "zalando",
             "repo": "opentracing-toolbox",
-            "stars": 180
+            "stars": 180,
+            "topics": [
+              "http",
+              "http-headers",
+              "java",
+              "monitoring",
+              "plugin-extension",
+              "spring-boot-starter",
+              "tracing"
+            ]
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -2090,12 +3239,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JITWatch plugin for IntelliJ IDEA",
+            "homepage": null,
             "id": 62942823,
             "language": "Kotlin",
+            "license": "Apache-2.0",
             "last_commit": "2022-03-02T14:57:52Z",
+            "open_issues": 8,
             "owner": "yole",
             "repo": "jitwatch-intellij",
-            "stars": 173
+            "stars": 173,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -2106,12 +3260,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Memory consumption estimator for Java",
+            "homepage": null,
             "id": 3768902,
             "language": null,
+            "license": null,
             "last_commit": "2018-03-09T12:21:28Z",
+            "open_issues": 0,
             "owner": "dweiss",
             "repo": "java-sizeof",
-            "stars": 119
+            "stars": 119,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -2122,12 +3281,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GUI for comparing JMH results",
+            "homepage": null,
             "id": 31317231,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2016-09-19T12:44:25Z",
+            "open_issues": 2,
             "owner": "akarnokd",
             "repo": "jmh-compare-gui",
-            "stars": 71
+            "stars": 71,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -2138,12 +3302,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tool for creating reports from Java Flight Recorder dumps",
+            "homepage": null,
             "id": 43140353,
             "language": "Groovy",
+            "license": "Apache-2.0",
             "last_commit": "2018-04-29T19:31:03Z",
+            "open_issues": 0,
             "owner": "lhotari",
             "repo": "jfr-report-tool",
-            "stars": 54
+            "stars": 54,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -2154,12 +3323,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Turn -XX:+TraceBytecodes output into a FlameGraph compatible stack format",
+            "homepage": null,
             "id": 115998297,
             "language": "Java",
+            "license": "MIT",
             "last_commit": "2025-09-22T22:11:39Z",
+            "open_issues": 0,
             "owner": "cl4es",
             "repo": "bytestacks",
-            "stars": 48
+            "stars": 48,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -2170,12 +3344,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Utilities for HDR Histogram logs manipulation",
+            "homepage": null,
             "id": 40595248,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2021-03-01T09:21:53Z",
+            "open_issues": 2,
             "owner": "nitsanw",
             "repo": "HdrLogProcessing",
-            "stars": 30
+            "stars": 30,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -2186,12 +3365,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OOM diagnostics for Java.",
+            "homepage": null,
             "id": 1989596,
             "language": "C++",
+            "license": null,
             "last_commit": "2012-10-15T18:00:09Z",
+            "open_issues": 0,
             "owner": "Cue",
             "repo": "polarbear",
-            "stars": 22
+            "stars": 22,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         }
@@ -2208,12 +3392,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Java unlimited redefinition of classes at runtime.",
+            "homepage": null,
             "id": 14561598,
             "language": "Java",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-26T08:28:59Z",
+            "open_issues": 107,
             "owner": "HotswapProjects",
             "repo": "HotswapAgent",
-            "stars": 2613
+            "stars": 2613,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -2224,12 +3413,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast JVM launching without the hassle of persistent JVMs.",
+            "homepage": null,
             "id": 5536234,
             "language": "Shell",
+            "license": "EPL-1.0",
             "last_commit": "2021-01-27T05:51:38Z",
+            "open_issues": 30,
             "owner": "ninjudd",
             "repo": "drip",
-            "stars": 1545
+            "stars": 1545,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -2240,12 +3434,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dead-Simple Packaging and Deployment for JVM Apps",
+            "homepage": "http://capsule.io",
             "id": 18912218,
             "language": "Java",
+            "license": "EPL-1.0",
             "last_commit": "2022-05-29T12:44:43Z",
+            "open_issues": 29,
             "owner": "puniverse",
             "repo": "capsule",
-            "stars": 1143
+            "stars": 1143,
+            "topics": [
+              "deployment",
+              "jar",
+              "java",
+              "jvm",
+              "packaging"
+            ]
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -2256,12 +3461,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Terminate the JVM when resources are exhausted",
+            "homepage": null,
             "id": 30434289,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-22T16:29:30Z",
+            "open_issues": 1,
             "owner": "airlift",
             "repo": "jvmkill",
-            "stars": 191
+            "stars": 191,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         }
@@ -2278,12 +3488,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Java to iOS Objective-C translation tool and runtime.",
+            "homepage": "http://j2objc.org",
             "id": 16389681,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T16:22:29Z",
+            "open_issues": 147,
             "owner": "google",
             "repo": "j2objc",
-            "stars": 6039
+            "stars": 6039,
+            "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -2294,12 +3509,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A toy JVM written in Go",
+            "homepage": null,
             "id": 28906288,
             "language": "Go",
+            "license": "MIT",
             "last_commit": "2019-12-04T14:16:37Z",
+            "open_issues": 12,
             "owner": "zxh0",
             "repo": "jvm.go",
-            "stars": 3600
+            "stars": 3600,
+            "topics": [
+              "golang",
+              "jvm"
+            ]
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -2310,12 +3533,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Eclipse OpenJ9: A Java Virtual Machine for OpenJDK that's optimized for small footprint, fast start-up, and high throughput.   Builds on Eclipse OMR (https://github.com/eclipse/omr) and combines with the Extensions for OpenJDK for OpenJ9 repo.",
+            "homepage": null,
             "id": 101408117,
             "language": "Java",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T21:08:42Z",
+            "open_issues": 3258,
             "owner": "eclipse-openj9",
             "repo": "openj9",
-            "stars": 3539
+            "stars": 3539,
+            "topics": [
+              "compiler",
+              "eclipse-openj9",
+              "garbage-collector",
+              "gc",
+              "hacktoberfest",
+              "interpreter",
+              "java",
+              "jit",
+              "jvm",
+              "runtime",
+              "virtual-machine"
+            ]
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -2326,12 +3566,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open-source framework for native apps from one Java codebase, with a custom-rendered UI you control across iOS, Android, desktop, web, and watches.",
+            "homepage": "https://www.codenameone.com/",
             "id": 32973467,
             "language": "Java",
-            "last_commit": "2026-08-29T02:21:12Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T04:23:08Z",
+            "open_issues": 267,
             "owner": "codenameone",
             "repo": "CodenameOne",
-            "stars": 1860
+            "stars": 1860,
+            "topics": [
+              "android",
+              "aot",
+              "app-framework",
+              "codename-one",
+              "compiler",
+              "cross-platform",
+              "desktop",
+              "graphics",
+              "ios",
+              "java",
+              "jvm",
+              "kotlin",
+              "linux",
+              "macos",
+              "maven",
+              "mobile-development",
+              "pwa",
+              "watchos",
+              "wear-os",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -2342,12 +3608,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[INACTIVE] Avian is a lightweight virtual machine and class library designed to provide a useful subset of Java's features, suitable for building self-contained applications.",
+            "homepage": "https://readytalk.github.io/avian/",
             "id": 4227709,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2021-02-19T02:20:09Z",
+            "open_issues": 38,
             "owner": "ReadyTalk",
             "repo": "avian",
-            "stars": 1238
+            "stars": 1238,
+            "topics": [
+              "java",
+              "jit-compiler",
+              "jvm",
+              "openjdk",
+              "portable"
+            ]
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         },
@@ -2358,12 +3635,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ahead of time compiler for JVM bytecode targetting iOS, Mac OSX and Linux",
+            "homepage": "https://mobivm.github.io",
             "id": 56718024,
             "language": "Java",
+            "license": null,
             "last_commit": "2026-08-18T10:23:17Z",
+            "open_issues": 20,
             "owner": "MobiVM",
             "repo": "robovm",
-            "stars": 1041
+            "stars": 1041,
+            "topics": [
+              "aot",
+              "bytecode",
+              "ios",
+              "java",
+              "jvm",
+              "kotlin",
+              "linux",
+              "macosx",
+              "robovm"
+            ]
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
         }
@@ -2382,12 +3674,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Class materials for a distributed systems lecture series",
+                "homepage": null,
                 "id": 55260959,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-03-18T16:49:03Z",
+                "open_issues": 6,
                 "owner": "aphyr",
                 "repo": "distsys-class",
-                "stars": 9881
+                "stars": 9881,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:31:36.004Z"
             },
@@ -2398,12 +3695,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Examples and hands-on labs for Linux tracing tools workshops",
+                "homepage": null,
                 "id": 61016178,
                 "language": "HTML",
+                "license": "MIT",
                 "last_commit": "2020-06-19T09:20:08Z",
+                "open_issues": 7,
                 "owner": "goldshtn",
                 "repo": "linux-tracing-workshop",
-                "stars": 1322
+                "stars": 1322,
+                "topics": []
               },
               "first_seen": "2026-08-28T04:31:36.004Z"
             }
@@ -2417,15 +3719,20 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:55:13.599Z",
+    "last_updated": "2026-08-29T04:24:25.995Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome loosely performance related JVM stuff. Inspired by awesome-python.",
+      "homepage": null,
       "id": 40659091,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2022-08-30T06:38:00Z",
+      "open_issues": 17,
       "owner": "deephacks",
       "repo": "awesome-jvm",
-      "stars": 2176
+      "stars": 2176,
+      "topics": []
     },
     "original_repository_sha": "c202eed1aadd11c5cc88bf9968300e24b8f75577",
     "enhanced_repository": "enhansome/enhansome-jvm",
