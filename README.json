@@ -73,7 +73,7 @@
             "open_issues": 44,
             "owner": "Frege",
             "repo": "frege",
-            "stars": 3714,
+            "stars": 3711,
             "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
@@ -94,7 +94,7 @@
             "open_issues": 43,
             "owner": "jphp-group",
             "repo": "jphp",
-            "stars": 1710,
+            "stars": 1709,
             "topics": [
               "bytecode",
               "compiler",
@@ -196,11 +196,11 @@
             "id": 20773773,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-05T12:24:06Z",
-            "open_issues": 1844,
+            "last_commit": "2026-09-06T20:18:17Z",
+            "open_issues": 1852,
             "owner": "bazelbuild",
             "repo": "bazel",
-            "stars": 25809,
+            "stars": 25811,
             "topics": [
               "bazel",
               "build",
@@ -226,11 +226,11 @@
             "id": 27954927,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T18:03:35Z",
+            "last_commit": "2026-09-06T08:46:00Z",
             "open_issues": 2,
             "owner": "ben-manes",
             "repo": "caffeine",
-            "stars": 17846,
+            "stars": 17847,
             "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
@@ -418,7 +418,7 @@
             "open_issues": 51,
             "owner": "OpenHFT",
             "repo": "Chronicle-Queue",
-            "stars": 3805,
+            "stars": 3806,
             "topics": [
               "chronicle",
               "java",
@@ -473,7 +473,7 @@
             "open_issues": 4,
             "owner": "aeron-io",
             "repo": "agrona",
-            "stars": 3247,
+            "stars": 3246,
             "topics": [
               "java",
               "performance"
@@ -548,10 +548,10 @@
             "language": "Java",
             "license": null,
             "last_commit": "2026-09-05T15:28:35Z",
-            "open_issues": 179,
+            "open_issues": 180,
             "owner": "eclipse-collections",
             "repo": "eclipse-collections",
-            "stars": 2649,
+            "stars": 2650,
             "topics": [
               "collections",
               "data-structures",
@@ -982,8 +982,8 @@
             "id": 31261671,
             "language": "Java",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-05T20:27:58Z",
-            "open_issues": 14,
+            "last_commit": "2026-09-06T11:04:20Z",
+            "open_issues": 15,
             "owner": "OpenHFT",
             "repo": "Chronicle-Bytes",
             "stars": 437,
@@ -1594,11 +1594,11 @@
             "id": 49662222,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-05T15:56:13Z",
-            "open_issues": 848,
+            "last_commit": "2026-09-06T15:27:38Z",
+            "open_issues": 847,
             "owner": "oracle",
             "repo": "graal",
-            "stars": 21686,
+            "stars": 21689,
             "topics": [
               "aot",
               "compiler",
@@ -1690,7 +1690,7 @@
             "open_issues": 451,
             "owner": "javaparser",
             "repo": "javaparser",
-            "stars": 6146,
+            "stars": 6148,
             "topics": [
               "abstract-syntax-tree",
               "ast",
@@ -1720,7 +1720,7 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-09-04T18:40:23Z",
-            "open_issues": 183,
+            "open_issues": 184,
             "owner": "konsoletyper",
             "repo": "teavm",
             "stars": 3104,
@@ -1750,7 +1750,7 @@
             "open_issues": 242,
             "owner": "typelead",
             "repo": "eta",
-            "stars": 2634,
+            "stars": 2633,
             "topics": [
               "eta",
               "functional-programming",
@@ -2048,7 +2048,7 @@
             "open_issues": 26,
             "owner": "fusesource",
             "repo": "hawtjni",
-            "stars": 174,
+            "stars": 175,
             "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
@@ -2092,11 +2092,11 @@
             "id": 5152285,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-05T00:39:56Z",
-            "open_issues": 148,
+            "last_commit": "2026-09-06T17:04:56Z",
+            "open_issues": 149,
             "owner": "lysine-dev",
             "repo": "okhttp",
-            "stars": 47060,
+            "stars": 47061,
             "topics": [
               "android",
               "graalvm",
@@ -2177,7 +2177,7 @@
             "open_issues": 26,
             "owner": "aeron-io",
             "repo": "aeron",
-            "stars": 8841,
+            "stars": 8843,
             "topics": [
               "c",
               "c-plus-plus",
@@ -2223,7 +2223,7 @@
             "language": "Java",
             "license": "Apache-2.0",
             "last_commit": "2026-09-03T06:05:03Z",
-            "open_issues": 704,
+            "open_issues": 705,
             "owner": "line",
             "repo": "armeria",
             "stars": 5138,
@@ -2294,7 +2294,7 @@
             "open_issues": 0,
             "owner": "appneta",
             "repo": "tcpreplay",
-            "stars": 1346,
+            "stars": 1347,
             "topics": [
               "c",
               "flow",
@@ -2601,7 +2601,7 @@
             "open_issues": 1074,
             "owner": "iovisor",
             "repo": "bcc",
-            "stars": 22654,
+            "stars": 22655,
             "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
@@ -2622,7 +2622,7 @@
             "open_issues": 56,
             "owner": "brendangregg",
             "repo": "perf-tools",
-            "stars": 10468,
+            "stars": 10467,
             "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
@@ -2643,7 +2643,7 @@
             "open_issues": 91,
             "owner": "RRZE-HPC",
             "repo": "likwid",
-            "stars": 1938,
+            "stars": 1939,
             "topics": [
               "amd-gpu",
               "armv8",
@@ -2711,7 +2711,7 @@
             "open_issues": 132,
             "owner": "square",
             "repo": "leakcanary",
-            "stars": 29989,
+            "stars": 29990,
             "topics": [
               "android",
               "java",
@@ -2770,7 +2770,7 @@
             "open_issues": 60,
             "owner": "async-profiler",
             "repo": "async-profiler",
-            "stars": 9135,
+            "stars": 9137,
             "topics": []
           },
           "first_seen": "2026-08-28T04:31:36.004Z"
@@ -2824,7 +2824,7 @@
             "open_issues": 307,
             "owner": "micrometer-metrics",
             "repo": "micrometer",
-            "stars": 4895,
+            "stars": 4896,
             "topics": [
               "cloud-native",
               "java",
@@ -2894,7 +2894,7 @@
             "open_issues": 17,
             "owner": "chriswhocodes",
             "repo": "jitwatch",
-            "stars": 3305,
+            "stars": 3306,
             "topics": [
               "escape-analysis",
               "hotspot",
@@ -3542,7 +3542,7 @@
             "open_issues": 3266,
             "owner": "eclipse-openj9",
             "repo": "openj9",
-            "stars": 3540,
+            "stars": 3543,
             "topics": [
               "compiler",
               "eclipse-openj9",
@@ -3571,8 +3571,8 @@
             "id": 32973467,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-05T22:18:14Z",
-            "open_issues": 278,
+            "last_commit": "2026-09-06T22:06:34Z",
+            "open_issues": 280,
             "owner": "codenameone",
             "repo": "CodenameOne",
             "stars": 1863,
@@ -3641,7 +3641,7 @@
             "language": "Java",
             "license": null,
             "last_commit": "2026-08-18T10:23:17Z",
-            "open_issues": 21,
+            "open_issues": 22,
             "owner": "MobiVM",
             "repo": "robovm",
             "stars": 1041,
@@ -3719,7 +3719,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T22:20:23.922Z",
+    "last_updated": "2026-09-06T22:23:45.418Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome loosely performance related JVM stuff. Inspired by awesome-python.",
