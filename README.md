@@ -47,7 +47,7 @@ A curated list of awesome JVM low level, performance and non-framework related s
 
 *Tools that generate load and measure the system accurately without coordinated omission*
 
-* [wrk2](https://github.com/giltene/wrk2) ⭐ 4,632 | 🐛 106 | 🌐 C | 📅 2024-03-03 - A constant throughput, correct latency recording variant of wrk.
+* [wrk2](https://github.com/giltene/wrk2) ⭐ 4,633 | 🐛 106 | 🌐 C | 📅 2024-03-03 - A constant throughput, correct latency recording variant of wrk.
 * [Gatling](http://gatling.io) - Asynchronous non-blocking scenario driven load testing tool for testing HTTP servers.
 
 ## Languages
@@ -86,24 +86,24 @@ A curated list of awesome JVM low level, performance and non-framework related s
 
 *Tools and data structures for efficient memory layout and concurrent access.*
 
-* [RxJava](https://github.com/ReactiveX/RxJava) ⭐ 48,193 | 🐛 11 | 🌐 Java | 📅 2026-09-21 - Library for composing asynchronous and event-based programs using observable sequences.
-* [VarInt](https://github.com/bazelbuild/bazel/blob/master/src/main/java/com/google/devtools/build/lib/util/VarInt.java) ⭐ 25,878 | 🐛 1,787 | 🌐 Java | 📅 2026-09-24 - No-deps variable int implementation without deps (by Bazel).
-* [caffeine](https://github.com/ben-manes/caffeine) ⭐ 17,876 | 🐛 1 | 🌐 Java | 📅 2026-09-21 - A high performance caching library for Java 8.
-* [okio](https://github.com/square/okio) ⭐ 9,043 | 🐛 104 | 🌐 Kotlin | 📅 2026-09-17 - Modern Java IO library that do clever things to save CPU and memory.
+* [RxJava](https://github.com/ReactiveX/RxJava) ⭐ 48,192 | 🐛 11 | 🌐 Java | 📅 2026-09-21 - Library for composing asynchronous and event-based programs using observable sequences.
+* [VarInt](https://github.com/bazelbuild/bazel/blob/master/src/main/java/com/google/devtools/build/lib/util/VarInt.java) ⭐ 25,879 | 🐛 1,793 | 🌐 Java | 📅 2026-09-25 - No-deps variable int implementation without deps (by Bazel).
+* [caffeine](https://github.com/ben-manes/caffeine) ⭐ 17,877 | 🐛 1 | 🌐 Java | 📅 2026-09-25 - A high performance caching library for Java 8.
+* [okio](https://github.com/square/okio) ⭐ 9,043 | 🐛 105 | 🌐 Kotlin | 📅 2026-09-25 - Modern Java IO library that do clever things to save CPU and memory.
 * [Agera](https://github.com/google/agera) ⚠️ Archived - Reactive Programming for Android by Google.
-* [lwjgl3](https://github.com/LWJGL/lwjgl3) ⭐ 5,458 | 🐛 92 | 🌐 Java | 📅 2026-09-10 - Java library that enables cross-platform access to popular native APIs useful in the development of graphics (OpenGL), audio (OpenAL) and parallel computing (OpenCL) applications.
-* [wire](https://github.com/square/wire) ⭐ 4,432 | 🐛 170 | 🌐 Kotlin | 📅 2026-09-24 - Clean, lightweight protocol buffers for Android and Java.
+* [lwjgl3](https://github.com/LWJGL/lwjgl3) ⭐ 5,458 | 🐛 93 | 🌐 Java | 📅 2026-09-10 - Java library that enables cross-platform access to popular native APIs useful in the development of graphics (OpenGL), audio (OpenAL) and parallel computing (OpenCL) applications.
+* [wire](https://github.com/square/wire) ⭐ 4,432 | 🐛 169 | 🌐 Kotlin | 📅 2026-09-25 - Clean, lightweight protocol buffers for Android and Java.
 * [failsafe](https://github.com/jhalterman/failsafe) ⭐ 4,316 | 🐛 78 | 🌐 Java | 📅 2025-12-28 - A lightweight, zero-dependency library for handling failures.
 * [RoaringBitmap](https://github.com/RoaringBitmap/RoaringBitmap) ⭐ 3,934 | 🐛 78 | 🌐 Java | 📅 2026-09-10 - A better compressed bitset in Java.
-* [Chronicle-Queue](https://github.com/OpenHFT/Chronicle-Queue) ⭐ 3,817 | 🐛 50 | 🌐 Java | 📅 2026-09-23 - Micro second messaging that stores everything to disk.
+* [Chronicle-Queue](https://github.com/OpenHFT/Chronicle-Queue) ⭐ 3,818 | 🐛 50 | 🌐 Java | 📅 2026-09-25 - Micro second messaging that stores everything to disk.
 * [Simple Binary Encoding](https://github.com/real-logic/simple-binary-encoding) ⭐ 3,511 | 🐛 36 | 🌐 Java | 📅 2026-09-17 - High Performance Message Codec.
 * [Agrona](https://github.com/real-logic/Agrona) ⭐ 3,255 | 🐛 4 | 🌐 Java | 📅 2026-09-24 - Library of data structures and utility methods that are a common need when building high-performance applications.
-* [Chronicle-Map](https://github.com/OpenHFT/Chronicle-Map) ⭐ 2,990 | 🐛 33 | 🌐 Java | 📅 2026-09-22 - In-memory key-value store designed for low-latency and/or multi-process applications.
+* [Chronicle-Map](https://github.com/OpenHFT/Chronicle-Map) ⭐ 2,990 | 🐛 33 | 🌐 Java | 📅 2026-09-25 - In-memory key-value store designed for low-latency and/or multi-process applications.
 * [java-string-similarity](https://github.com/tdebatty/java-string-similarity) ⭐ 2,741 | 🐛 14 | 🌐 Java | 📅 2022-06-01 - String similarity and distance measures, including Levenshtein edit distance and sibblings, Jaro-Winkler, Longest Common Subsequence, cosine similarity etc.
-* [Eclipse Collections](https://github.com/eclipse/eclipse-collections) ⭐ 2,649 | 🐛 172 | 🌐 Java | 📅 2026-09-24 - Collections framework for Java.
+* [Eclipse Collections](https://github.com/eclipse/eclipse-collections) ⭐ 2,650 | 🐛 173 | 🌐 Java | 📅 2026-09-24 - Collections framework for Java.
 * [stream-lib](https://github.com/addthis/stream-lib) ⚠️ Archived - A Java library for summarizing data in streams for which it is infeasible to store all events.
 * [jOOL](https://github.com/jOOQ/jOOL) ⭐ 2,121 | 🐛 45 | 🌐 Java | 📅 2024-08-01 - Useful extensions to Java 8 lambdas.
-* [gs-collections](https://github.com/goldmansachs/gs-collections) ⭐ 1,821 | 🐛 25 | 🌐 Java | 📅 2023-03-20 - Goldman Sachs collections framework.
+* [gs-collections](https://github.com/goldmansachs/gs-collections) ⭐ 1,820 | 🐛 25 | 🌐 Java | 📅 2023-03-20 - Goldman Sachs collections framework.
 * [LevelDB](https://github.com/dain/leveldb) ⭐ 1,557 | 🐛 36 | 🌐 Java | 📅 2022-11-19 - Rewrite (port) of LevelDB in Java.
 * [hollow](https://github.com/Netflix/hollow) ⭐ 1,372 | 🐛 165 | 🌐 Java | 📅 2026-09-23 - Java library and comprehensive toolset for harnessing small to moderately sized in-memory datasets.
 * [cyclops](https://github.com/aol/cyclops) ⭐ 1,327 | 🐛 28 | 🌐 Java | 📅 2023-03-21 - Integration modules for RxJava, Reactor, FunctionalJava, Guava & Javaslang.
@@ -117,7 +117,7 @@ A curated list of awesome JVM low level, performance and non-framework related s
 * [pcollections](https://github.com/hrldcpr/pcollections) ⭐ 791 | 🐛 21 | 🌐 Java | 📅 2025-07-23 - A Persistent Java Collections Library.
 * [colfer](https://github.com/pascaldekloe/colfer) ⭐ 759 | 🐛 10 | 🌐 Java | 📅 2026-02-26 - Binary serialization format and class generator.
 * [JavaFastPFOR](https://github.com/lemire/JavaFastPFOR) ⭐ 569 | 🐛 4 | 🌐 Java | 📅 2026-06-24 - Library to compress and uncompress arrays of integers very fast.
-* [Chronicle-Bytes](https://github.com/OpenHFT/Chronicle-Bytes) ⭐ 437 | 🐛 10 | 🌐 Java | 📅 2026-09-22 - Low level memory access wrappers.
+* [Chronicle-Bytes](https://github.com/OpenHFT/Chronicle-Bytes) ⭐ 437 | 🐛 10 | 🌐 Java | 📅 2026-09-25 - Low level memory access wrappers.
 * [geohash](https://github.com/davidmoten/geo) ⭐ 435 | 🐛 9 | 🌐 Java | 📅 2026-09-15 - Java utility methods for geohashing.
 * [high-scale-lib](https://github.com/boundary/high-scale-lib) ⭐ 420 | 🐛 5 | 🌐 Java | 📅 2015-03-28 - Cliff Click's High Scale Library.
 * [streamvbyte](https://github.com/lemire/streamvbyte) ⭐ 419 | 🐛 10 | 🌐 C | 📅 2026-06-07 - Fast integer compression in C using the StreamVByte codec.
@@ -166,14 +166,14 @@ A curated list of awesome JVM low level, performance and non-framework related s
 
 *Parsers, interpreters, compilers and source generation targeted for the JVM.*
 
-* [Truffle](https://github.com/graalvm/truffle) ⭐ 21,712 | 🐛 850 | 🌐 Java | 📅 2026-09-24 - Framework for implementing languages as simple interpreters.
+* [Truffle](https://github.com/graalvm/truffle) ⭐ 21,715 | 🐛 854 | 🌐 Java | 📅 2026-09-25 - Framework for implementing languages as simple interpreters.
 * [JavaPoet](https://github.com/square/javapoet) ⚠️ Archived - A Java API for generating .java source files.
-* [auto](https://github.com/google/auto) ⭐ 10,562 | 🐛 88 | 🌐 Java | 📅 2026-09-21 - A collection of source code generators for Java.
-* [error-prone](https://github.com/google/error-prone) ⭐ 7,238 | 🐛 536 | 🌐 Java | 📅 2026-09-24 - Catch common Java mistakes as compile-time errors.
-* [javaparser](https://github.com/javaparser/javaparser) ⭐ 6,151 | 🐛 444 | 🌐 Java | 📅 2026-09-24 - Java 1.8 Parser and Abstract Syntax Tree for Java.
-* [TeaVM](https://github.com/konsoletyper/teavm) ⭐ 3,114 | 🐛 191 | 🌐 Java | 📅 2026-09-15 - Ahead-of-time translating compiler (transpiler) from Java bytecode to JavaScript.
+* [auto](https://github.com/google/auto) ⭐ 10,561 | 🐛 88 | 🌐 Java | 📅 2026-09-21 - A collection of source code generators for Java.
+* [error-prone](https://github.com/google/error-prone) ⭐ 7,238 | 🐛 538 | 🌐 Java | 📅 2026-09-25 - Catch common Java mistakes as compile-time errors.
+* [javaparser](https://github.com/javaparser/javaparser) ⭐ 6,152 | 🐛 444 | 🌐 Java | 📅 2026-09-25 - Java 1.8 Parser and Abstract Syntax Tree for Java.
+* [TeaVM](https://github.com/konsoletyper/teavm) ⭐ 3,115 | 🐛 191 | 🌐 Java | 📅 2026-09-15 - Ahead-of-time translating compiler (transpiler) from Java bytecode to JavaScript.
 * [GHCVM](https://github.com/rahulmutt/ghcvm) ⭐ 2,636 | 🐛 242 | 🌐 Haskell | 📅 2022-07-31 - A Haskell to JVM compiler that supports GHC Haskell.
-* [parboiled](https://github.com/sirthias/parboiled) ⭐ 1,319 | 🐛 42 | 🌐 Java | 📅 2026-09-14 - Parsing of arbitrary input text based on parsing expression grammars.
+* [parboiled](https://github.com/sirthias/parboiled) ⭐ 1,318 | 🐛 42 | 🌐 Java | 📅 2026-09-14 - Parsing of arbitrary input text based on parsing expression grammars.
 * [compile-testing](https://github.com/google/compile-testing) ⭐ 722 | 🐛 43 | 🌐 Java | 📅 2026-09-18 - Testing tools for javac and annotation processors.
 * [Sulong](https://github.com/graalvm/sulong) ⚠️ Archived - LLVM IR interpreter written in Java using Truffle and Graal.
 * [derive4j](https://github.com/derive4j/derive4j) ⭐ 577 | 🐛 18 | 🌐 Java | 📅 2022-12-01 - Algebraic data types constructors, pattern-matching, morphisms, optics and typeclasses.
@@ -195,7 +195,7 @@ A curated list of awesome JVM low level, performance and non-framework related s
 *Interconnecting JVM and native code*
 
 * [JavaCPP](https://github.com/bytedeco/javacpp) ⭐ 4,707 | 🐛 113 | 🌐 Java | 📅 2026-08-10 - JavaCPP provides efficient access to native C++ inside Java.
-* [j2v8](https://github.com/eclipsesource/j2v8) ⭐ 2,629 | 🐛 178 | 🌐 Java | 📅 2025-11-14 - Java API for Google's V8 JavaScript engine.
+* [j2v8](https://github.com/eclipsesource/j2v8) ⭐ 2,630 | 🐛 178 | 🌐 Java | 📅 2025-11-14 - Java API for Google's V8 JavaScript engine.
 * [jnr-ffi](https://github.com/jnr/jnr-ffi) ⭐ 1,325 | 🐛 98 | 🌐 Java | 📅 2026-09-15 - Load native libraries without writing JNI code by hand.
 * [NuProcess](https://github.com/brettwooldridge/NuProcess) ⭐ 740 | 🐛 36 | 🌐 Java | 📅 2026-07-10 - A low-overhead, non-blocking I/O, external Process execution implementation for Java.
 * [Java Grinder](https://github.com/mikeakohn/java_grinder) ⭐ 529 | 🐛 7 | 🌐 C++ | 📅 2026-07-04 - Compile Java bytecode to microcontroller assembly.
@@ -207,18 +207,18 @@ A curated list of awesome JVM low level, performance and non-framework related s
 
 *Tools for network programming, packet capture, monitoring, testing and resiliency.*
 
-* [okhttp](https://github.com/square/okhttp) ⭐ 47,077 | 🐛 156 | 🌐 Kotlin | 📅 2026-09-24 - An HTTP+HTTP/2 client for Android and Java applications.
+* [okhttp](https://github.com/square/okhttp) ⭐ 47,076 | 🐛 156 | 🌐 Kotlin | 📅 2026-09-25 - An HTTP+HTTP/2 client for Android and Java applications.
 * [gor](https://github.com/buger/gor) ⭐ 19,323 | 🐛 341 | 🌐 Go | 📅 2026-01-27 - HTTP traffic replay in real-time.
 * [comcast](https://github.com/tylertreat/comcast) ⭐ 10,515 | 🐛 26 | 🌐 Go | 📅 2025-03-20 - Simulating shitty network connections.
-* [Aeron](https://github.com/real-logic/Aeron) ⭐ 8,897 | 🐛 17 | 🌐 Java | 📅 2026-09-24 - Efficient reliable UDP unicast, UDP multicast, and IPC message transport.
+* [Aeron](https://github.com/real-logic/Aeron) ⭐ 8,895 | 🐛 17 | 🌐 Java | 📅 2026-09-25 - Efficient reliable UDP unicast, UDP multicast, and IPC message transport.
 * [SimianArmy](https://github.com/Netflix/SimianArmy) ⚠️ Archived - Resiliency tool that helps ensure that your applications can tolerate random instance failures.
-* [armeria](https://github.com/line/armeria) ⭐ 5,147 | 🐛 706 | 🌐 Java | 📅 2026-09-24 - Asynchronous RPC/API client/server library built on top of Java 8, Netty 4.1, HTTP/2, and Thrift.
+* [armeria](https://github.com/line/armeria) ⭐ 5,147 | 🐛 707 | 🌐 Java | 📅 2026-09-24 - Asynchronous RPC/API client/server library built on top of Java 8, Netty 4.1, HTTP/2, and Thrift.
 * [tcpflow](https://github.com/simsong/tcpflow) ⭐ 1,778 | 🐛 74 | 🌐 C++ | 📅 2026-01-29 - Captures TCP connections flows in a way that is convenient for protocol analysis and debugging.
 * [tcpreplay](https://github.com/appneta/tcpreplay) ⭐ 1,349 | 🐛 2 | 🌐 C | 📅 2026-08-15 - Pcap editing and replay tools.
 * [pcap4j](https://github.com/kaitoy/pcap4j) ⭐ 1,241 | 🐛 73 | 🌐 Java | 📅 2022-09-05 - Java library for capturing, crafting, and sending packets using libpcap.
 * [reactive-grpc](https://github.com/salesforce/reactive-grpc) ⭐ 838 | 🐛 32 | 🌐 Java | 📅 2026-06-02 - Reactive gRPC is a suite of libraries for using gRPC with Reactive Streams programming libraries.
 * [muxy](https://github.com/mefellows/muxy) ⭐ 827 | 🐛 8 | 🌐 Go | 📅 2021-01-13 - Simulating real-world distributed system failures.
-* [one-nio](https://github.com/odnoklassniki/one-nio) ⭐ 724 | 🐛 18 | 🌐 Java | 📅 2026-09-24 - library for building high performance Java servers.
+* [one-nio](https://github.com/odnoklassniki/one-nio) ⭐ 725 | 🐛 18 | 🌐 Java | 📅 2026-09-24 - library for building high performance Java servers.
 * [pig](https://github.com/rafael-santiago/pig) ⭐ 479 | 🐛 0 | 🌐 C | 📅 2020-11-02 - A Linux packet crafting tool.
 * [Chronicle-Network](https://github.com/OpenHFT/Chronicle-Network) ⚠️ Archived - A High Performance Network library.
 * [JXIO](https://github.com/accelio/JXIO) ⭐ 85 | 🐛 11 | 🌐 Java | 📅 2017-01-15 - Java API over AccelIO (C library), a high-performance asynchronous reliable messaging and RPC library optimized for hardware acceleration.
@@ -234,9 +234,9 @@ A curated list of awesome JVM low level, performance and non-framework related s
 
 \*Useful *nix tools when profiling the JVM and interaction with the host environment*
 
-* [bcc](https://github.com/iovisor/bcc) ⭐ 22,674 | 🐛 1,078 | 🌐 C | 📅 2026-09-19 - Tools for BPF-based Linux IO analysis, networking, monitoring, and more.
+* [bcc](https://github.com/iovisor/bcc) ⭐ 22,676 | 🐛 1,078 | 🌐 C | 📅 2026-09-19 - Tools for BPF-based Linux IO analysis, networking, monitoring, and more.
 * [perf-tools](https://github.com/brendangregg/perf-tools) ⭐ 10,468 | 🐛 56 | 🌐 Shell | 📅 2023-11-22 - Performance analysis tools based on Linux perf\_events (aka perf) and ftrace.
-* [likwid](https://github.com/RRZE-HPC/likwid) ⭐ 1,947 | 🐛 92 | 🌐 C | 📅 2026-09-16 - Read hardware performance counters on Intel and AMD processors.
+* [likwid](https://github.com/RRZE-HPC/likwid) ⭐ 1,947 | 🐛 92 | 🌐 C | 📅 2026-09-25 - Read hardware performance counters on Intel and AMD processors.
 * [ioping](https://github.com/koct9i/ioping) ⭐ 986 | 🐛 0 | 🌐 C | 📅 2025-12-25 - Simple disk I/0 latency measuring tool.
 * [atoptool](http://www.atoptool.nl/) - Logging of system and process activity for long-term analysis, highlighting overloaded system.
 * [Flame Graphs](http://www.brendangregg.com/flamegraphs.html) - Visualization of profiled software, allowing the most frequent code-paths to be identified quickly and accurately.
@@ -260,11 +260,11 @@ A curated list of awesome JVM low level, performance and non-framework related s
 *Tools that provide profiling and tracing information to aid program optimization*
 
 * [leakcanary](https://github.com/square/leakcanary) ⭐ 30,000 | 🐛 134 | 🌐 Kotlin | 📅 2026-09-18 - A memory leak detection library for Android and Java.
-* [Zipkin](https://github.com/openzipkin/zipkin) ⭐ 17,465 | 🐛 175 | 🌐 Java | 📅 2026-08-06 - A distributed tracing system gather timing data for disparate services developed by Twitter.
-* [async-profiler](https://github.com/jvm-profiling-tools/async-profiler) ⭐ 9,154 | 🐛 55 | 🌐 C++ | 📅 2026-09-22 - Sampling CPU profiler for Java featuring AsyncGetCallTrace + perf\_events.
-* [BTrace](https://github.com/jbachorik/btrace) ⭐ 5,995 | 🐛 6 | 🌐 Java | 📅 2026-09-21 - a safe, dynamic tracing tool for the Java platform.
-* [micrometer](https://github.com/micrometer-metrics/micrometer) ⭐ 4,903 | 🐛 309 | 🌐 Java | 📅 2026-09-24 - An application metrics facade for the most popular monitoring tools.
-* [GCViewer](https://github.com/chewiebug/GCViewer) ⭐ 4,648 | 🐛 84 | 🌐 Java | 📅 2026-06-20 - GCViewer is a tool that visualizes verbose GC output.
+* [Zipkin](https://github.com/openzipkin/zipkin) ⭐ 17,466 | 🐛 175 | 🌐 Java | 📅 2026-08-06 - A distributed tracing system gather timing data for disparate services developed by Twitter.
+* [async-profiler](https://github.com/jvm-profiling-tools/async-profiler) ⭐ 9,153 | 🐛 55 | 🌐 C++ | 📅 2026-09-22 - Sampling CPU profiler for Java featuring AsyncGetCallTrace + perf\_events.
+* [BTrace](https://github.com/jbachorik/btrace) ⭐ 5,995 | 🐛 5 | 🌐 Java | 📅 2026-09-25 - a safe, dynamic tracing tool for the Java platform.
+* [micrometer](https://github.com/micrometer-metrics/micrometer) ⭐ 4,903 | 🐛 306 | 🌐 Java | 📅 2026-09-25 - An application metrics facade for the most popular monitoring tools.
+* [GCViewer](https://github.com/chewiebug/GCViewer) ⭐ 4,647 | 🐛 84 | 🌐 Java | 📅 2026-06-20 - GCViewer is a tool that visualizes verbose GC output.
 * [Swiss Java Knife](https://github.com/aragozin/jvm-tools) ⭐ 3,339 | 🐛 15 | 🌐 Java | 📅 2024-01-26 - Small set of tools for JVM troublshooting, monitoring and profiling.
 * [jitwatch](https://github.com/AdoptOpenJDK/jitwatch) ⭐ 3,314 | 🐛 20 | 🌐 Java | 📅 2026-09-22 - Log analyser / visualiser for Java HotSpot JIT compiler.
 * [jvm-profiler](https://github.com/uber-common/jvm-profiler) ⭐ 1,802 | 🐛 20 | 🌐 Java | 📅 2026-05-21 - Java Agent to collect various metrics and stacktraces for Hadoop/Spark JVM processes in a distributed way.
@@ -324,10 +324,10 @@ A curated list of awesome JVM low level, performance and non-framework related s
 
 *Virtual machines that implement the JVM specification or parts of it.*
 
-* [J2ObjC](https://github.com/google/j2objc) ⭐ 6,039 | 🐛 156 | 🌐 Java | 📅 2026-09-24 - Translator from Java source to Objective-C code. Keeps shared code between iOS native apps and Android native apps.
+* [J2ObjC](https://github.com/google/j2objc) ⭐ 6,039 | 🐛 155 | 🌐 Java | 📅 2026-09-25 - Translator from Java source to Objective-C code. Keeps shared code between iOS native apps and Android native apps.
 * [jvm.go](https://github.com/zxh0/jvm.go) ⭐ 3,598 | 🐛 12 | 🌐 Go | 📅 2019-12-04 - A JVM written in Go.
-* [Eclipse OpenJ9](https://github.com/eclipse/openj9) ⭐ 3,547 | 🐛 3,266 | 🌐 Java | 📅 2026-09-24 - Eclipse OpenJ9.
-* [ParparVM](https://github.com/codenameone/CodenameOne/tree/master/vm) ⭐ 1,869 | 🐛 273 | 🌐 Java | 📅 2026-09-24 - An Open Source Java bytecode to C translator for iOS native development. Designed as a part of the [Codename One](https://www.codenameone.com/) WORA for mobile project.
+* [Eclipse OpenJ9](https://github.com/eclipse/openj9) ⭐ 3,547 | 🐛 3,268 | 🌐 Java | 📅 2026-09-25 - Eclipse OpenJ9.
+* [ParparVM](https://github.com/codenameone/CodenameOne/tree/master/vm) ⭐ 1,870 | 🐛 278 | 🌐 Java | 📅 2026-09-25 - An Open Source Java bytecode to C translator for iOS native development. Designed as a part of the [Codename One](https://www.codenameone.com/) WORA for mobile project.
 * [Avian](https://github.com/ReadyTalk/avian) ⭐ 1,238 | 🐛 39 | 🌐 C++ | 📅 2021-02-19 - Lightweight highly portable JVM with an option for AOT compilation.
 * [MobiDevelop's RoboVM Fork](https://github.com/MobiVM/robovm) ⭐ 1,043 | 🐛 26 | 🌐 Java | 📅 2026-09-24 - Ahead of time compiler for JVM bytecode targeting iOS, Mac OSX and Linux.
 * [Dalvik](https://source.android.com/devices/tech/dalvik/) - Android runtime (ART) is the managed runtime used by applications and some system services on Android.
@@ -343,7 +343,7 @@ A curated list of awesome JVM low level, performance and non-framework related s
 
 *Documentation related to JVM*
 
-* [An introduction to distributed systems](https://github.com/aphyr/distsys-class) ⭐ 9,886 | 🐛 6 | 📅 2025-03-18 - Kyle Kingsbury (author of Jepsen).
+* [An introduction to distributed systems](https://github.com/aphyr/distsys-class) ⭐ 9,887 | 🐛 6 | 📅 2025-03-18 - Kyle Kingsbury (author of Jepsen).
 * [Linux tracing workshop](https://github.com/goldshtn/linux-tracing-workshop) ⭐ 1,320 | 🐛 7 | 🌐 HTML | 📅 2020-06-19 - JVM monitoring with BPF, examples and hands-on labs for Linux tracing tools workshops.
 * [TCP Tracepoints](http://www.brendangregg.com/blog/2018-03-22/tcp-tracepoints.html) Linux bcc/BPF using tcplife by Brendan Gregg
 * [JVM Anatomy Park](https://shipilev.net/jvm-anatomy-park/) - mini-post series where every post goes deep for only a single topic by Aleksey Shipilёv.
@@ -471,4 +471,4 @@ Please have a look at [contributing.md](https://github.com/deephacks/awesome-jvm
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-25._
