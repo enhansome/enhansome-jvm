@@ -1595,10 +1595,10 @@
             "language": "Java",
             "license": "NOASSERTION",
             "last_commit": "2026-10-02T16:05:38Z",
-            "open_issues": 862,
+            "open_issues": 863,
             "owner": "oracle",
             "repo": "graal",
-            "stars": 21722,
+            "stars": 21723,
             "topics": [
               "aot",
               "compiler",
@@ -2092,8 +2092,8 @@
             "id": 5152285,
             "language": "Kotlin",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T04:22:22Z",
-            "open_issues": 154,
+            "last_commit": "2026-10-03T04:22:05Z",
+            "open_issues": 152,
             "owner": "lysine-dev",
             "repo": "okhttp",
             "stars": 47081,
@@ -3571,8 +3571,8 @@
             "id": 32973467,
             "language": "Java",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T20:26:54Z",
-            "open_issues": 274,
+            "last_commit": "2026-10-03T04:50:11Z",
+            "open_issues": 275,
             "owner": "codenameone",
             "repo": "CodenameOne",
             "stars": 1871,
@@ -3719,7 +3719,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T00:00:39.649Z",
+    "last_updated": "2026-10-03T04:50:53.280Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome loosely performance related JVM stuff. Inspired by awesome-python.",

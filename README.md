@@ -80,7 +80,7 @@ A curated list of awesome JVM low level, performance and non-framework related s
 
 * [Deeplearning4j](https://deeplearning4j.org/) - Open-Source, Distributed, Deep Learning Library for the JVM.
 * [H2O](https://www.h2o.ai/) - Fast statistical, machine learning & math runtime.
-* [Smile](https://github.com/haifengl/smile) ⭐ 6,418 | 🐛 3 | 🌐 Java | 📅 2026-10-02 - Statistical Machine Intelligence & Learning Engine.
+* [Smile](https://github.com/haifengl/smile) ⭐ 6,418 | 🐛 3 | 🌐 Java | 📅 2026-10-03 - Statistical Machine Intelligence & Learning Engine.
 
 ## Memory and concurrency
 
@@ -166,7 +166,7 @@ A curated list of awesome JVM low level, performance and non-framework related s
 
 *Parsers, interpreters, compilers and source generation targeted for the JVM.*
 
-* [Truffle](https://github.com/graalvm/truffle) ⭐ 21,722 | 🐛 862 | 🌐 Java | 📅 2026-10-02 - Framework for implementing languages as simple interpreters.
+* [Truffle](https://github.com/graalvm/truffle) ⭐ 21,723 | 🐛 863 | 🌐 Java | 📅 2026-10-02 - Framework for implementing languages as simple interpreters.
 * [JavaPoet](https://github.com/square/javapoet) ⚠️ Archived - A Java API for generating .java source files.
 * [auto](https://github.com/google/auto) ⭐ 10,562 | 🐛 89 | 🌐 Java | 📅 2026-10-02 - A collection of source code generators for Java.
 * [error-prone](https://github.com/google/error-prone) ⭐ 7,244 | 🐛 544 | 🌐 Java | 📅 2026-10-02 - Catch common Java mistakes as compile-time errors.
@@ -207,7 +207,7 @@ A curated list of awesome JVM low level, performance and non-framework related s
 
 *Tools for network programming, packet capture, monitoring, testing and resiliency.*
 
-* [okhttp](https://github.com/square/okhttp) ⭐ 47,081 | 🐛 154 | 🌐 Kotlin | 📅 2026-10-02 - An HTTP+HTTP/2 client for Android and Java applications.
+* [okhttp](https://github.com/square/okhttp) ⭐ 47,081 | 🐛 152 | 🌐 Kotlin | 📅 2026-10-03 - An HTTP+HTTP/2 client for Android and Java applications.
 * [gor](https://github.com/buger/gor) ⭐ 19,325 | 🐛 341 | 🌐 Go | 📅 2026-01-27 - HTTP traffic replay in real-time.
 * [comcast](https://github.com/tylertreat/comcast) ⭐ 10,516 | 🐛 26 | 🌐 Go | 📅 2025-03-20 - Simulating shitty network connections.
 * [Aeron](https://github.com/real-logic/Aeron) ⭐ 8,900 | 🐛 17 | 🌐 Java | 📅 2026-10-02 - Efficient reliable UDP unicast, UDP multicast, and IPC message transport.
@@ -327,7 +327,7 @@ A curated list of awesome JVM low level, performance and non-framework related s
 * [J2ObjC](https://github.com/google/j2objc) ⭐ 6,038 | 🐛 156 | 🌐 Java | 📅 2026-10-02 - Translator from Java source to Objective-C code. Keeps shared code between iOS native apps and Android native apps.
 * [jvm.go](https://github.com/zxh0/jvm.go) ⭐ 3,598 | 🐛 12 | 🌐 Go | 📅 2019-12-04 - A JVM written in Go.
 * [Eclipse OpenJ9](https://github.com/eclipse/openj9) ⭐ 3,544 | 🐛 3,278 | 🌐 Java | 📅 2026-10-02 - Eclipse OpenJ9.
-* [ParparVM](https://github.com/codenameone/CodenameOne/tree/master/vm) ⭐ 1,871 | 🐛 274 | 🌐 Java | 📅 2026-10-02 - An Open Source Java bytecode to C translator for iOS native development. Designed as a part of the [Codename One](https://www.codenameone.com/) WORA for mobile project.
+* [ParparVM](https://github.com/codenameone/CodenameOne/tree/master/vm) ⭐ 1,871 | 🐛 275 | 🌐 Java | 📅 2026-10-03 - An Open Source Java bytecode to C translator for iOS native development. Designed as a part of the [Codename One](https://www.codenameone.com/) WORA for mobile project.
 * [Avian](https://github.com/ReadyTalk/avian) ⭐ 1,239 | 🐛 39 | 🌐 C++ | 📅 2021-02-19 - Lightweight highly portable JVM with an option for AOT compilation.
 * [MobiDevelop's RoboVM Fork](https://github.com/MobiVM/robovm) ⭐ 1,044 | 🐛 26 | 🌐 Java | 📅 2026-09-24 - Ahead of time compiler for JVM bytecode targeting iOS, Mac OSX and Linux.
 * [Dalvik](https://source.android.com/devices/tech/dalvik/) - Android runtime (ART) is the managed runtime used by applications and some system services on Android.
@@ -467,7 +467,7 @@ A curated list of awesome JVM low level, performance and non-framework related s
 
 Contributions are very welcome!
 
-Please have a look at [contributing.md](https://github.com/deephacks/awesome-jvm/blob/master/contributing.md) ⭐ 2,177 | 🐛 17 | 📅 2022-08-30 for guidelines.
+Please have a look at [contributing.md](https://github.com/deephacks/awesome-jvm/blob/master/contributing.md) for guidelines.
 
 ***
 
